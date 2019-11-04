@@ -43,7 +43,7 @@ $ python3 ./NLP_DNER.py -i ./data/CDR_Data/CDR.Corpus.v010516/CDR_gs_PubTator.tx
 $ cd ./notebook/
 ```
 
-Notebooks contain analysis for multiplicity in disease name and quantification of disease entity 
+Notebooks contain analysis for multiplicity in disease named entity and quantification of disease entity 
 useful for transfer learning 
 
 ### Disclamier
