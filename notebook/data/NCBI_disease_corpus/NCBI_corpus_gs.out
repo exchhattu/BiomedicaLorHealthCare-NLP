@@ -1,0 +1,1580 @@
+[INFO]: NTLK Version: 3.4.1
+[INFO]: gold standard database...
+[INFO]: # of abstract: 791
+[INFO]: # of sentences and words: 167183 and 7149
+[INFO]: # of annotated disease name: 6881
+[INFO]: # of uniquely annotated disease name: 1999
+WordsPerDisease: D012878,2,skin tumour,skin tumours
+WordsPerDisease: D009369,37,benign tumors,bilateral and multifocal tumours,cancer,cancer predisposition,cancer-associated diseases,cancer-prone,cancers,carcinomas,childhood tumor,dcc-negative tumors,familial and sporadic cancers,hereditary cancers,inherited and sporadic forms of the cancer,malignancy,malignant neoplasm,malignant neoplasms,mcf-7 tumours,neoplasia,neoplasm,neoplasms,neoplastic,non-familial cancers,nonhereditary cancer,nonocular tumors,solid tumor,solid tumors,sporadic cancers,sporadic tumours,stage iii cancers,stage iii disease,tumor,tumor types,tumors,tumour,tumours,unilateral tumors,unilateral tumours
+WordsPerDisease: D003110,2,colon cancers,colon carcinoma
+WordsPerDisease: D011125,20,adenomatous polyposis coli,adenomatous polyposis coli (apc) tumor,adenomatous polyposis coli (apc) tumour,adenomatous polyposis coli tumour,adenomatous polyps of the colon and rectum,apc,apc tumor,familial adenomatous polyposis,familial adenomatous polyposis coli,familial adenomatous polyposis syndrome,familial apc,familial polyposis,familial polyposis apc,familial polyposis coli,fap,fapc,fpc,hereditary adenomatous polyposis of the colon,inherited colorectal polyposis,polyposis
+WordsPerDisease: D003110|D009369,1,colon and some other cancers
+WordsPerDisease: D018296,1,pilomatricomas
+WordsPerDisease: D016399,4,hemochromatosis,t-cell large cell lymphoma,t-cell lymphoma,t-cell lymphomas
+WordsPerDisease: D006432,9,genetic hemochromatosis,gh,hemochromatosis,hereditary hemochromatosis,hereditary hemochromatotic,hfe defect,hfe deficiency,hfe-deficient,hh
+WordsPerDisease: D030342,56,allelic disorders,autosomal codominant disorder,autosomal dominant condition,autosomal dominant disease,autosomal dominant disorde,autosomal dominant disorder,autosomal dominant genetic disorder,autosomal dominant multisystem disorder,autosomal dominant syndrome,autosomal recessive disease,autosomal recessive disorder,autosomal recessive genetic disorder,autosomal recessive human genetic disorder,autosomal recessive syndrome,autosomal, recessive disorder,autossomal recessive disorder,cag/polyglutamine repeat disease,congenital disease,deficient in six5,dominantly inherited disease,dtdst disorders,gene defects,genetic abnormalities,genetic abnormality,genetic defect,genetic defects,genetic deficiency,genetic disease,genetic diseases,genetic disorder,genetic disorders,hereditary disease,hereditary multisystemic disease,inherited defects,inherited deficiency,inherited disease,inherited disorder,inherited disorders,inherited human disease,inherited human disorder,mendelian disease,molecular lesion,multigenic disorder,polyglutamine disease,recessive disease,recessive disorder,recessive disorders,recessive genetic disorders,recessive inherited disorder,recessive multi-system disorder,recessively inherited condition,recessively inherited disorder,six5 deficiency,telecanthus,trinucleotide repeat disorders,wt1 dysfunction
+WordsPerDisease: D010051,9,ovarian and early-onset,ovarian cancer,ovarian cancers,ovarian carcinomas,ovarian tumor,ovarian tumors,premenopausal ovarian cancer,sporadic (nonhereditary) ovarian cancers,sporadic ovarian tumours
+WordsPerDisease: D001943,14,breast cancer,breast cancers,breast carcinoma,breast carcinomas,breast malignancies,breast tumour,estrogen receptor-positive breast carcinomas,familial breast cancer,hereditary breast cancer,inherited breast cancer,non-hereditary (sporadic) breast cancer,non-inherited breast carcinomas,sporadic breast cancer,sporadic breast cancers
+WordsPerDisease: D001943|D010051,11,breast and 79 ovarian cancer,breast and ovarian cancer,breast and ovarian cancers,breast and ovarian carcinomas,breast and ovarian tumors,breast and/or ovarian cancer,breast or ovarian cancer,breast to ovarian cancer,cancer of the breast and ovaries,non-familial breast and ovarian cancers,sporadic breast and ovarian cancers
+WordsPerDisease: OMIM:610102,18,absence of functional c7,absence of the seventh component of complemen,absence of the seventh component of complement,c7 defects,c7 deficiency,c7 deficient,c7-deficient,c7d,cm deficienty,complement c7 deficiency,complete absence of c7,completely deficient in the seventh component of complement,deficiencies of c7,deficiency of c7,deficiency of the seventh component of complement,deficient in the seventh component of complement,familial deficiency of the seventh component of complement,hereditary c7 deficiency
+WordsPerDisease: D016870,7,bacteremic infections due to neisseria,bacteremic neisseria infections,bacterial, especially neisserial, infections,chronic neisserial infection,neisseria infections,neisserial infection,neisserial infections
+WordsPerDisease: D004673,1,disseminated gonococcal infection
+WordsPerDisease: D008585,2,acute meningococcal meningitis,meningococcal meningitis
+WordsPerDisease: D001168,3,arthritis,chronic arthritis,peripheral arthritis
+WordsPerDisease: D008538,1,oromandibular dystonia
+WordsPerDisease: D004421,2,dystonia,dystonic
+WordsPerDisease: C538007,2,dopa-responsive dystonia,drd
+WordsPerDisease: D010505,3,familial mediterranean fever,fmf,mef
+WordsPerDisease: D012700,1,serositis
+WordsPerDisease: D013585,1,synovitis
+WordsPerDisease: D056735,3,alps,autoimmune lymphoproliferative syndrome,autoimmune lymphoproliferative syndrome, type ia
+WordsPerDisease: D008232|D007154,1,disorder of lymphocyte homeostasis and immunological tolerance
+WordsPerDisease: D000326,14,adolcald,adolescent ald,adolescent cerebral ald,adrenoleukodystrophy,adrenoleukodystrophy protein deficiency,adrenomyeloneuropathy,ald,amn,ccald,cerebral ald,childhood cerebral ald,type ii ald,x-ald,x-linked adrenoleukodystrophy
+WordsPerDisease: D009461,5,neurologic deterioration,neurologic dysfunction,neurological abnormalities,neurological disturbance,neuronal dysfunction
+WordsPerDisease: D000309,2,adrenal cortical insufficiency,adrenal insufficiency
+WordsPerDisease: D000224,8,addison disease,addison disease only,addison only,addison's disease,addisons disease,ado,adrenocortical insufficiency,adrenocrotical insufficiency
+WordsPerDisease: D008589,6,chronic meningococcemia,meningococcal,meningococcal disease,meningococcal infection,meningococcal infections,neisseria meningitidis
+WordsPerDisease: D014657,1,vasculitis
+WordsPerDisease: D005334,2,fever,hyperthermia
+WordsPerDisease: D018366,1,cutaneous vasculitis
+WordsPerDisease: D054067,5,deficiency of dpd,dihydropyrimidine dehydrogenase (dpd) deficiency,dihydropyrimidine dehydrogenase deficiency,dpd,dpd deficiency
+WordsPerDisease: D004829,1,convulsive disorders
+WordsPerDisease: D019957,1,motor retardation
+WordsPerDisease: D008607,4,mental handicap,mental retardation,mentally retarded,severely handicapped
+WordsPerDisease: D013568,2,clinical abnormalities,facial lesions
+WordsPerDisease: D005955,26,deficiency of g6pd,deficiency of glucose-6-phosphate dehydrogenase,deficient g6pd,deficient in glucose-6-phosphate dehydrogenase,enzyme deficiency in g6pd,erythrocytic g6pd deficiency,g6pd a-,g6pd deficiencies,g6pd deficiency,g6pd deficient,g6pd seattle-like phenotype,g6pd-deficient,glucose 6 phosphate dehydrogenase (g6pd) deficiency,glucose 6-phosphate dehydrogenase (g6pd) deficiency,glucose 6-phosphate dehydrogenase deficiency,glucose-6-phosphate dehydrogenase (g6pd) -deficient,glucose-6-phosphate dehydrogenase (g6pd) deficiency,glucose-6-phosphate dehydrogenase (g6pd; e. c. 1. 1. 1. 49) deficiency,glucose-6-phosphate dehydrogenase (g6pd; ec 1. 1. 1. 49) -deficient,glucose-6-phosphate dehydrogenase (g6pd; ec 1. 1. 1. 49) deficiency,glucose-6-phosphate dehydrogenase (g6pd; ec 1.1. 1. 49) deficiency,glucose-6-phosphate dehydrogenase deficiency,severe-glucose-6-phosphate dehydrogenase (g6pd) deficiency,x-linked g6pd deficiency,x-linked glucose-6-phosphate dehydrogenase (g6pd) deficiency,x-linked glucose-6-phosphate dehydrogenase deficiency
+WordsPerDisease: D006995,3,hbl,homozygous hypobetalipoproteinemia,hypobetalipoproteinemia
+WordsPerDisease: D000012,4,abetalipoproproteinemia,abetalipoproteinemia,acanthocytosis,normotriglyceridemic abetalipoproteinemia
+WordsPerDisease: D019190,3,excess iron deposits,iron overload,iron-overload disease
+WordsPerDisease: D008103,4,cirrhosis,cirrhotic liver disease,hepatic cirrhosis,hepatic fibrosis
+WordsPerDisease: D000435,1,excessive alcohol consumption
+WordsPerDisease: D005234,1,microvesicular steatosis
+WordsPerDisease: D006529,1,hepatomegaly
+WordsPerDisease: D010859,2,cutaneous and ocular pigmentation,skin pigmentation
+WordsPerDisease: OMIM:312080,6,pelizaeus merzbacher disease,pelizaeus-merzbacher,pelizaeus-merzbacher disease,pelizaeus-merzbacher disease (type ii),pmd,x-linked pelizaeus-merzbacher disease
+WordsPerDisease: D020279+D035583,1,rare, sex-linked recessive, dysmyelinating disease of the central nervous system
+WordsPerDisease: C536170,2,diastrophic dysplasia,dtd
+WordsPerDisease: D010009,6,chondrodysplasia,chondrodysplasias,med,multiple epiphyseal dysplasia,schwartz-jampel syndrome,sjs
+WordsPerDisease: D013122,1,platyspondyly
+WordsPerDisease: C537356,1,metatropic dysplasia
+WordsPerDisease: D005736,2,gardner syndrome,gs
+WordsPerDisease: D019465,3,autosomal dominant craniofacial disorder,craniofacial abnormalities,low frontal hairline
+WordsPerDisease: OMIM:217000,18,c2 deficiency,c2-deficiency,c2-deficient,complement factor 2 (c2) deficiency,complement factor 2 deficiency,deficiency of complement protein c2,deficiency of the second component of complement,hereditary c2 deficiency,heterozygous c2 deficiency,inherited deficiency of complement factor 2,type i c2 deficiency,type i c2-deficient,type i human complement c2 deficiency,type ii c2 deficiency,type ii c2-deficient,type ii complement protein c2 deficiency,type ii deficiency,type ii human complement c2 deficiency
+WordsPerDisease: OMIM:300624,2,fmr1 deficiency,fragile x mental retardation
+WordsPerDisease: D005600,3,fragile x,fragile x syndrome,macroorchidism
+WordsPerDisease: D001008,1,anxiety
+WordsPerDisease: D000795,5,alpha-gal a deficiency,alpha-galactosidase deficiency,angiokeratoma corporis diffusum,fabry disease,fd
+WordsPerDisease: D008052,1,x-linked inborn error of glycosphingolipid metabolism
+WordsPerDisease: D000794,1,angiokeratoma
+WordsPerDisease: D010292,1,severe acroparesthesia
+WordsPerDisease: D051437,1,renal failure
+WordsPerDisease: D014652,1,vasculopathy of the heart and brain
+WordsPerDisease: D001714,5,bipolar affective disorder,bipolar disorder,bpad,mania,manic-depressive illness
+WordsPerDisease: D041441,4,juvenile retinoschisis,retinoschisis,x-linked retinoschisis,xlrs
+WordsPerDisease: C531604,2,visual deterioration,visual loss
+WordsPerDisease: D012175,15,bilateral and unilateral retinoblastoma,bilateral retinoblastoma,ectopic intracranial retinoblastoma,familial or sporadic bilateral retinoblastoma,hereditary and non hereditary retinoblastoma,hereditary or non hereditary retinoblastoma,hereditary retinoblastoma,rb tumors,retinoblastoma,retinoblastoma (rb) tumor,retinoblastoma tumors,retinoblastoma tumours,retinoblastomas,unilateral and bilateral retinoblastoma,unilateral retinoblastoma
+WordsPerDisease: D058499,3,photoreceptor dystrophies,retinal dystrophy,vitreoretinal dystrophy
+WordsPerDisease: D015794,3,chm,choroideremia,tcd
+WordsPerDisease: D015785,2,hereditary retinopathies,x-linked progressive degeneration of the choroid and retina
+WordsPerDisease: D006623,13,rcc- and von hippel-lindau disease-associated tumors,vhl,vhl cancer syndrome,vhl disease,vhl gene abnormality,vhl tumor,von hippel-lindau,von hippel-lindau (vhl) disease,von hippel-lindau (vhl) tumor,von hippel-lindau disease,von hippel-lindau disease tumour,von hippel-lindau disease-associated and sporadic rccs,von hippel-lindau tumor
+WordsPerDisease: D018325,7,bilateral and multi-centric hemangioblastoma,brain hemangioblastomas,central nervous system hemangioblastoma,cerebellar haemangioblastoma,haemangioblastoma,hemangioblastomas,sporadic cerebellar haemangioblastoma
+WordsPerDisease: D002292,11,non-papillary renal cell carcinoma,non-papillary renal cell carcinomas,nonpapillary renal cell carcinoma,papillary renal cell tumours,rcc,rcc cancer,renal cell carcinoma,renal cell carcinomas,sporadic rcc,sporadic renal cell carcinoma,sporadic renal cell carcinomas
+WordsPerDisease: D009386,7,advanced-stage hereditary cancer,autosomal dominantly inherited cancer syndrome,familial tumors,hereditary cancer,hereditary tumor syndrome,hereditary tumours,inherited cancer syndrome
+WordsPerDisease: D009800,5,lowe oculocerebrorenal syndrome,lowe syndrome,ocrl,oculocerebrorenal syndrome,oculocerebrorenal syndrome of lowe
+WordsPerDisease: D040181,9,x chromosome-linked human disease,x-linked disease,x-linked diseases,x-linked disorder,x-linked disorders,x-linked multisystem disorder,x-linked recessive disease,x-linked recessive disorder,x-linked recessive genetic disorder
+WordsPerDisease: D000015,1,abnormalities of eyes, nervous system, and kidneys
+WordsPerDisease: D020388,7,dmd,dmd defects,duchenne,duchenne dystrophy,duchenne muscular dystrophy,dystrophic,x-linked duchenne muscular dystrophy
+WordsPerDisease: D014947,2,muscular injury,trauma
+WordsPerDisease: D009136,7,dystrophic process,dystrophic syndrome,dystrophinopathy,golden retriever muscular dystrophy,grmd,muscle dystrophy,muscular dystrophy
+WordsPerDisease: D008659,4,inherited metabolic disorder,metabolic abnormalities,metabolic disease,metabolic disorder
+WordsPerDisease: D014842,4,von willebrand,von willebrand disease,von willebrand disease type b,vwd
+WordsPerDisease: D061325,30,breast and ovarian cancer,breast and ovarian cancers,breast and/or ovarian cancer,breast-ovarian cancer,breast-ovarian cancer syndrome,breast-ovarian cancer-family syndrome,breast-ovarian syndrome,breast-ovary cancer,breast-ovary cancer-family syndrome,breast/ovarian cancer,familial breast and ovarian cancer,familial breast and ovarian cancers,familial breast/ovarian cancer,hereditary breast and ovarian cancer,hereditary breast and ovarian cancer syndrome,hereditary breast and/or ovarian cancer,hereditary breast cancer,hereditary breast cancers,hereditary breast or ovarian cancer,hereditary breast-ovarian cancer,hereditary breast-ovarian cancer syndrome,hereditary forms of ovarian cancer,hereditary human breast and ovarian cancer,hereditary ovarian cancer,hereditary ovarian cancers,inherited breast and ovarian cancer,inherited breast and ovarian cancers,inherited breast cancer,inherited breast-ovarian cancer,inherited breast/ovarian cancer
+WordsPerDisease: D018567,2,familial male breast cancer,male breast cancer
+WordsPerDisease: OMIM:606824,4,autosomal recessive disease glucose/galactose malabsorption,ggm,glucose/galactose malabsorption,hereditary glucose/galactose malabsorption
+WordsPerDisease: D013661,10,deficiency of beta-hexosaminidase a,deficiency of hex a,deficient in hex a,gm2 gangliosidosis, type 1,hex a deficiency,hex a enzyme deficiency,hexosaminidase a deficiency,tay-sachs,tay-sachs disease,tsd
+WordsPerDisease: D017825,5,canavan,canavan disease,deficiency of aspa,deficiency of aspartoacylase,spongy degeneration of the brain
+WordsPerDisease: D007966,8,adult mld,autosomal recessive leukodystrophy,deficiency of arylsulfatase a,late-infantile metachromatic leukodystrophy,late-infantile type of mld,leukodystrophy,metachromatic leukodystrophy,mld
+WordsPerDisease: D003711,9,central nervous system demyelination,deficit of myelin,demyelination,demyelination in the central and peripheral nervous system,demyelination of the cerebral white matter,dysmyelinating disorder,hypomyelination,myelin-deficient,progressive central demyelination
+WordsPerDisease: D015211,4,zellweger spectrum of disease,zellweger syndrome,zellwegers cerebrohepatorenal syndrome,zellwegers syndrome
+WordsPerDisease: D018901,5,inborn peroxisomal disease,peroxisomal deficiency disorders,peroxisomal disease,peroxisomal disorder,peroxisomal disorders
+WordsPerDisease: OMIM:202370,2,neonatal adrenoleukodystrophy,neonatal ald
+WordsPerDisease: D017827,7,machado-joseph disease,mjd,sca3,spinocerebellar ataxia 3,spinocerebellar ataxia 3/machado-joseph disease,spinocerebellar ataxia type 3,spinocerebellar ataxia type-3
+WordsPerDisease: D000474,2,aku,alkaptonuria
+WordsPerDisease: D009794,1,ochronosis
+WordsPerDisease: D009794+D007592,1,ochronotic arthropathy
+WordsPerDisease: D013274,3,familial gastric cancer,gastric cancer,gastric cancers
+WordsPerDisease: D018256,4,adenomatous polyps,adenomatous polyps in the colon,colonic adenomas,colorectal adenomas
+WordsPerDisease: OMIM:613825,11,c9 deficiency,c9-deficient,complement c9 deficiency,complete c9 deficiency,complete deficiency of c9,complete deficiency of the c9 component,congenital deficiency of the c9 component of complement,deficiency of the ninth component of complement,deficiency of the ninth component of human complement,inherited c9 deficiency,inherited deficiency in the ninth complement component
+WordsPerDisease: D007153,17,complement defect,complement deficiency,complement deficient,congenital complement deficiencies,congenital immunodeficiency syndrome,deficiencies of complement components,deficiency of terminal complement components,hypocomplementemia,hypoimmunoglobulinemia,immune deficiency,immunodeficiency,immunodeficiency disease,immunologic abnormalities,impairment of cellular immunity,inherited complement deficiencies,terminal complement component deficiency,terminal complement deficiency
+WordsPerDisease: D007926,13,absence of hypoxanthine-guanine phosphoribosyltransferase (hprt) activity,complete deficiency of hypoxanthine guanine phosphoribosyltransferase,complete hypoxanthine-guanine phosphoribosyl-transferase (hprt) deficiency,deficiency of hypoxanthine-guanine phosphoribosyltransferase,hprt deficient,hprt enzyme deficiency,hprt-deficiency,hprt-deficient,hypoxanthine phosphoribosyltransferase [hprt] deficiency,l-n,l-n syndrome,lesch-nyhan,lesch-nyhan syndrome
+WordsPerDisease: D020389,11,deficiency of emerin,edmd,emd,emdm,emerin deficiency,emerin, deficiency,emery dreifuss muscular dystrophy,emery-dreifuss muscular dystrophy,x-linked emd,x-linked emery-dreifuss muscular dystrophy,x-linked recessive emery-dreifuss muscular dystrophy
+WordsPerDisease: D040181+D009136,1,x-linked recessive muscular dystrophy
+WordsPerDisease: D003286,8,ankle contractures,congenital joint contractures,contractures,contractures of the achilles tendons,contractures of the elbows,contractures of the elbows, achilles tendons and postcervical muscles,contractures of the elbows, achilles tendons and spine,elbow contractures
+WordsPerDisease: D009133,2,muscle wasting,muscular atrophy
+WordsPerDisease: D018908,5,lower limb weakness,muscle weakness,muscular weakness,upper limb weakness,weakness
+WordsPerDisease: D009202,2,cardiomyopathy,myocardial involvement
+WordsPerDisease: OMIM:115080,1,cardiac conduction defects
+WordsPerDisease: D006331,2,cardiac disease,cardiac involvement
+WordsPerDisease: D002278,1,carcinoma in situ
+WordsPerDisease: D009362,3,invasive cancer,metastasis,metastatic tumors
+WordsPerDisease: D009223,6,cdm,congenital dm,congenital myotonic dystrophy,dm,dystrophia myotonica,myotonic dystrophy
+WordsPerDisease: D016537,2,deficiency of acid beta-galactosidase,gm1-gangliosidosis
+WordsPerDisease: D016464,2,autosomal recessive lysosomal storage disorder,lysosomal storage disorder
+WordsPerDisease: D018376,2,cardiac abnormalities,cardiac abnormality
+WordsPerDisease: D020022,2,genetic lesions,predisposition to wt
+WordsPerDisease: D002386,7,cataract,cataractous,cataracts,congenital cataract,congenital cataracts,cortical and total cataracts,lenticular opacities
+WordsPerDisease: D009222,1,myotonia
+WordsPerDisease: D009135,7,muscle disease,muscular disorder,myopathic,myopathies,myopathy,progressive skeletal myopathy,skeletal myopathy
+WordsPerDisease: D006327,2,cardiac conduction abnormalities,cardiac conduction block
+WordsPerDisease: D009139,2,abnormalities of skeletal muscle function,extracranial abnormalities
+WordsPerDisease: OMIM:609536,11,c5 deficiency,c5 protein deficiency,c5-deficient,c5d,defect in secretion of complement c5,deficiency of c5,deficiency of the fifth (c5) component of complement1-3,deficiency of the fifth component of complement,deficiency of the murine fifth complement component (c5),deficient for c5,hereditary deficiency of the fifth component of complement
+WordsPerDisease: D008179,3,chronic discoid lupus erythematosus,discoid lupus erythematosus,familial discoid lupus erythematosus
+WordsPerDisease: D014923,5,was,wiskott-aldrich defect,wiskott-aldrich syndrome,x-linked immunodeficiency wiskott-aldrich syndrome,x-linked wiskott-aldrich syndrome
+WordsPerDisease: D013921,3,isolated thrombocytopenia,thrombocytopenia,thrombocytopenic
+WordsPerDisease: D014564,5,genital abnormalities,genital anomalies,genitourinary abnormalities,urogenital aberrations,urogenital abnormalities
+WordsPerDisease: D030321,2,dds,denys-drash syndrome
+WordsPerDisease: D009396,10,nephroblastoma,sporadic wilms tumours,wilms tumor,wilms tumorigenesis,wilms tumors,wilms tumour,wilms' tumor,wilms' tumour,wt,wt1 gene abnormality
+WordsPerDisease: D008654,2,mesothelioma,non-asbestos related mesothelioma
+WordsPerDisease: D007938,5,acute leukemia,leukaemia,leukemia,leukemias,leukemic
+WordsPerDisease: D004194,10,disorder of inappropriate apoptosis,gastrulation defect,glial cell death,hypersensitivity to ionizing radiation,hypersensitivity to oxidative stress,insidious lesion,multifactorial diseases,multisystemic disease,nonneoplastic,phenotypic abnormalities
+WordsPerDisease: D005921,5,glomerular basement membrane abnormalities,glomerulonephritis,glomerulosclerosis,hematuric glomerulonephritis,mesangiopathic glomerulonephritis
+WordsPerDisease: D007674,6,acute renal disease,amyloidotic kidney disease,nephropathy,parenchymal tumours of the kidney,renal disease,renal nephropathy
+WordsPerDisease: C537346,5,diffuse mesangial sclerosis,dms,idms,isolated dms,mesangial sclerosis
+WordsPerDisease: D012734,2,intersex disorders,pseudohermaphroditism
+WordsPerDisease: D005832,1,male genital defects
+WordsPerDisease: D005236,1,favism
+WordsPerDisease: D000743,2,episodic hemolytic anemia,hemolytic anemia
+WordsPerDisease: D016757,1,sudden cardiac death
+WordsPerDisease: D008223,9,centrocytic lymphoma,centrocytic lymphomas,lymphoid malignancies,lymphoid malignancy,lymphoid neoplasias,lymphoid neoplasms,lymphoma,noncentrocytic lymphomas,thymic lymphomas
+WordsPerDisease: D016393,3,b-cell neoplasms,b-cell non-hodgkins lymphomas,b-nhl
+WordsPerDisease: D010282,2,parathyroid adenomas,parathyroid tumor
+WordsPerDisease: D001943|D018307,1,breast and squamous cell neoplasms
+WordsPerDisease: D008288,2,malaria,malarious
+WordsPerDisease: D013789,1,thalassemia
+WordsPerDisease: D006461,7,chronic hemolysis,fatal hemolysis,haemolysis,haemolytic attack,haemolytic attacks,hemolysis,hemolytic crisis
+WordsPerDisease: D000799,1,angioedema
+WordsPerDisease: D009157,2,mg,myasthenia gravis
+WordsPerDisease: D008180,1,systemic lupus erythematosus
+WordsPerDisease: D001327,2,autoimmune disorders,autoimmune manifestations
+WordsPerDisease: OMIM:613779,7,c3 deficiency,c3-deficient,decreased synthesis of c3,deficiency of c3,deficiency of the third component of complement,hereditary deficiency of the third component of complement,inherited c3 deficiency
+WordsPerDisease: D001424,1,bacterial infections
+WordsPerDisease: D011014,1,pneumonia
+WordsPerDisease: D007105,1,immune-complex disease
+WordsPerDisease: D007239,2,pyogenic infection,pyogenic infections
+WordsPerDisease: D008661,8,disorder of glycoprotein metabolism,enzyme deficiency,enzymopathy,in-born error of metabolism,inborn error of metabolism,inborn errors of metabolism,protein-import deficiency,x-linked inherited metabolic disorder
+WordsPerDisease: D001260,4,a-t,at,ataxia telangiectasia,ataxia-telangiectasia
+WordsPerDisease: D005693,10,autosomal recessive disorder of human galactose metabolism,classic galactosemia,classical and duarte galactosemia,classical galactosemia,deficiency of the enzyme galactose-1-phosphate uridyl transferase,duarte and los angeles variant galactosemia,duarte enzyme variant of galactosemia,galactosemia,galt deficiency,la variant of galactosemia
+WordsPerDisease: D009468+D030342,1,inherited neuromuscular disease
+WordsPerDisease: C536528,5,autosomal dominant clefting condition,lip pits,lower-lip pits,van der woude syndrome,vws
+WordsPerDisease: D002972,2,cleft palate,cp
+WordsPerDisease: D008047,1,pits and/or sinuses of the lower lip
+WordsPerDisease: D002971|D002972,7,cl/p,cleft lip and/or palate,cleft lip/palate,clefts,clefts to the lip and/or palate,oral cleft,syndromic forms of cleft lip and palate
+WordsPerDisease: C531732,1,bifid uvula
+WordsPerDisease: D000848,2,h,hypodontia
+WordsPerDisease: D007567,2,neonatal jaundice,severe neonatal jaundice
+WordsPerDisease: OMIM:143470,7,cetp deficiency,cetp-deficient,cholesteryl ester transfer protein (cetp) deficiency,cholesteryl ester transfer protein deficiency,hyperalphalipoproteinemia,hyperalphalipoproteinemic,total deficiency of plasma cholesteryl ester transfer protein
+WordsPerDisease: D006937,1,hypercholesterolemia
+WordsPerDisease: D050197,5,atherogenesis,atherosclerosis,atherosclerotic cardiovascular disease,atherosclerotic symptoms,premature atherosclerosis
+WordsPerDisease: D020388|C537666,6,becker and duchenne dystrophies,becker and duchenne muscular dystrophy,duchenne and becker muscular dystrophy,duchenne and the milder becker muscular dystrophies,duchenne or becker muscular dystrophy,duchenne/becker muscular dystrophy
+WordsPerDisease: C537666,2,becker muscular dystrophy,bmd
+WordsPerDisease: C536648,3,pds,pendred,pendred syndrome
+WordsPerDisease: C537845,2,non-syndromic hearing loss,non-syndromic sensorineural hearing loss
+WordsPerDisease: OMIM:600791,5,autosomal recessive non-syndromic hearing loss,dfnb4,enlarged vestibular aqueduct,eva,widened vestibular aqueduct
+WordsPerDisease: D006042,4,dyshormonogenic goiter,goiter,goitre,thyroid goiter
+WordsPerDisease: OMIM:261600,8,deficiency of a hepatic enzyme, phenylalanine hydroxylase,deficiency of hepatic phenylalanine hydroxylase,deficiency of the enzyme phenylalanine hydroxylase,deficiency of the hepatic enzyme phenylalanine hydroxylase,pah deficiencies,pah deficiency,pah-deficient,phenylalanine hydroxylase deficiency
+WordsPerDisease: D017042,2,maternal phenylketonuria,maternal pku
+WordsPerDisease: D010661,9,classical phenylketonuria,hpa,hyperphenylalaninemia,hyperphenylalaninemias,hyperphenylalaninemic,mhp,mild hyperphenylalaninemia,phenylketonuria,pku
+WordsPerDisease: D056784,4,degeneration and premature cell death of oligodendrocytes,leukoencephalopathy,oligodendrocyte degeneration,white matter lesions
+WordsPerDisease: D053840,1,brugada syndrome
+WordsPerDisease: D008133,1,congenital long-qt syndrome
+WordsPerDisease: C537034,1,lqt3
+WordsPerDisease: C537182,2,idiopathic ventricular fibrillation,ivf
+WordsPerDisease: OMIM:125700,8,adndi,arginine vasopressin (avp) deficiency,autosomal dominant neurohypophyseal diabetes insipidus,autosomal recessive familial neurohypophyseal diabetes insipidus,deficiency of active avp,deficiency of the hormone arginine vasopressin,familial neurohypophyseal diabetes insipidus,fndi
+WordsPerDisease: D009410,3,neuritic degeneration,neuronal damage,neuronal degeneration
+WordsPerDisease: D020790,1,neurohypophyseal diabetes insipidus
+WordsPerDisease: D015783,7,absence of iris,aniridia,bilateral sporadic aniridia,congenital absence of the iris,familial aniridia,isolated aniridia,sporadic aniridia
+WordsPerDisease: C537209,1,knobloch syndrome
+WordsPerDisease: C538225,3,defect of the anterior midline scalp,midline scalp defect of the frontal region,midline scalp defects
+WordsPerDisease: D012162,2,retinal degeneration,vitreoretinal degeneration
+WordsPerDisease: D009216,2,high myopia,myopia
+WordsPerDisease: D006972,1,hypertelorism
+WordsPerDisease: D007569,1,high-arched palate
+WordsPerDisease: D006319,5,congenital sensorineural hearing loss,sensorineural deafness,sensorineural hearing loss,sensory neural deafness,sensory-neural deafness
+WordsPerDisease: D003638,4,congenital deafness,congenital hearing loss,deafness,syndromic deafness
+WordsPerDisease: D007759,2,inner ear abnormality,inner ear morphological anomaly
+WordsPerDisease: D015179,18,benign colorectal tumors,colorectal,colorectal cancer,colorectal cancer,,colorectal cancers,colorectal carcinoma,colorectal carcinomas,colorectal neoplasia,colorectal tumor,colorectal tumors,crc,hereditary colorectal cancer syndrome,sporadic colorectal cancers,stage ii and iii colorectal carcinomas,stage ii and stage iii colorectal carcinomas,stage ii colorectal cancer,stage ii colorectal carcinomas,stage ii or stage iii colorectal cancer
+WordsPerDisease: C538265,7,aapc,afap,attenuated adenomatous polyposis coli,attenuated apc,attenuated familial adenomatous polyposis,attenuated fap,attenuated polyposis
+WordsPerDisease: D000236,3,adenoma,adenomas,colorectal adenomas
+WordsPerDisease: D018222,2,desmoid tumors,fap desmoids
+WordsPerDisease: C536353,9,deficiency of mitochondrial very-long-chain acyl-coa dehydrogenase,deficiency of the normal vlcad protein,very long chain acyl-coa dehydrogenase (vlcad) deficiency,very long chain acyl-coa dehydrogenase deficiency,very-long-chain acyl-coa dehydrogenase deficiency,very-long-chain acyl-coenzyme a dehydrogenase (vlcad) deficiency,very-long-chain acyl-coenzyme a dehydrogenase deficiency,vlcad deficiency,vlcad-deficient
+WordsPerDisease: D002312,1,hypertrophic cardiomyopathy
+WordsPerDisease: D006816,2,hd,huntington disease
+WordsPerDisease: D019636,7,autosomal dominant neurodegenerative disorder,autosomal recessive degenerative disorder,neurodegeneration,neurodegenerative disease,neurodegenerative disorders,neurologic deterioration,neurological lesion
+WordsPerDisease: D016864,1,li-fraumeni syndrome
+WordsPerDisease: D018239,1,seminoma
+WordsPerDisease: D008527,2,medulloblastoma,medulloblastomas
+WordsPerDisease: D002471,1,tumorogenesis
+WordsPerDisease: D000592,3,disorder of amino acid metabolism,iminodipeptiduria,inborn error of amino-acid metabolism
+WordsPerDisease: C537849,7,deficiency of norrin,nd,ndp,norrie,norrie disease,pseudoglioma,x linked norrie disease
+WordsPerDisease: D038901,3,inherited mental retardation,x-linked mental retardation,x-linked neurodevelopmental disorder
+WordsPerDisease: D015223,1,wolman disease
+WordsPerDisease: D049288,1,limb-girdle muscular dystrophy
+WordsPerDisease: D024182,5,maternal disomy,maternal heterodisomy,maternal uniparental disomy for chromosome 14,uniparental disomy,upd
+WordsPerDisease: D012514,1,kaposi sarcoma
+WordsPerDisease: D004485,1,eczema
+WordsPerDisease: D008206,2,fatal lymphoreticular disease,lymphadenopathy
+WordsPerDisease: D013163,1,splenomegaly
+WordsPerDisease: D020031,2,epstein-barr,epstein-barr virus
+WordsPerDisease: D003586,1,cytomegalovirus
+WordsPerDisease: D015658,2,hiv,human immunodeficiency virus
+WordsPerDisease: D019294,3,cerebrotendinous xanthomatosis,ctx,deficiency in the sterol 27-hydroxylase activity
+WordsPerDisease: D014973,3,spinal xanthomatosis,tendinous xanthomas,xanthoma
+WordsPerDisease: OMIM:610102|OMIM:612446,2,combined genetic deficiency of c6 and c7,sub-total deficiency of c6 and c7
+WordsPerDisease: OMIM:612446,9,absence of the sixth component of complement,c6 deficiency,c6-deficient,c6d,complement component c6 deficiency,deficiency of the sixth component of complement,deficiency of the sixth component of human complement,subtotal c6 and complete c6 deficiency,subtotal complement c6 deficiency
+WordsPerDisease: D015826,2,langer-giedion syndrome,lgs
+WordsPerDisease: D005621,4,frataxin deficiency,frda,friedreich ataxia,friedreichs ataxia
+WordsPerDisease: D030342+D019636,1,autosomal recessive cardiodegenerative and neurodegenerative disease
+WordsPerDisease: D028361,2,mitochondrial disorder,mitochondrial iron accumulation
+WordsPerDisease: D000745,3,chronic hemolytic anemia,congenital hemolytic anemia,life-long hemolytic anemia
+WordsPerDisease: D006965,1,overgrowth of oral mucosa and facial skin
+WordsPerDisease: D054880,5,agu,aspartylglucosaminuria,deficiency of aspartylglucosaminidase,deficiency of the enzyme aspartylglucosaminidase,deficiency of the lysosomal enzyme aspartylglucosaminidase
+WordsPerDisease: D017445,1,erythema of the facial skin
+WordsPerDisease: D018322,1,facial angiofibromas
+WordsPerDisease: D014402,1,tuberous sclerosis
+WordsPerDisease: D007967,2,leucoedema,oedemic buccal mucosa
+WordsPerDisease: D019214,1,gingival overgrowths
+WordsPerDisease: D009059,3,mucosal lesions,mucosal overgrowth,oral mucosal lesions
+WordsPerDisease: D017573,1,fibroepithelial or epithelial hyperplasias
+WordsPerDisease: OMIM:174810,2,familial expansile osteolysis,feo
+WordsPerDisease: D001847,2,autosomal dominant bone disorder,increased bone remodelling
+WordsPerDisease: D030981,2,acro-osteolysis,osteolytic lesions
+WordsPerDisease: C538098,2,familial paget disease of bone,pdb
+WordsPerDisease: C538243,4,aih1,x-linked amelogenesis imperfecta,xai,xai disease
+WordsPerDisease: D014071,2,dental abnormalities,inherited dental abnormality
+WordsPerDisease: D011218,5,familial pws,prader willi,prader-willi,prader-willi syndrome,pws
+WordsPerDisease: D002869,4,chromosomal abnormalities,chromosome 15 anomaly,chromosome abnormalities,rearrangement disorders
+WordsPerDisease: D003025,1,club foot
+WordsPerDisease: C535504,1,double layered patella
+WordsPerDisease: C536016,3,acg1b,achondrogenesis 1b,achondrogenesis type 1b
+WordsPerDisease: C535395,7,ao ii,ao-2,ao2,aoii,atelosteogenesis 2,atelosteogenesis type 2,atelosteogenesis type ii
+WordsPerDisease: D006618,1,hip dysplasia
+WordsPerDisease: D004427,1,swelling of the ear pinna
+WordsPerDisease: C536903,1,hitch hiker thumb
+WordsPerDisease: OMIM:132400,1,edm1
+WordsPerDisease: OMIM:600204,1,edm2
+WordsPerDisease: OMIM:226900,1,edm4
+WordsPerDisease: D009468,4,benign neuromuscular disorder,neuromuscular disease,neuromuscular diseases,neuromuscular disorder
+WordsPerDisease: D017511,2,pg,pyoderma gangrenosum
+WordsPerDisease: D034721,1,systemic diseases
+WordsPerDisease: D008545,5,familial melanoma,malignant melanoma,malignant melanoma of soft parts,melanoma,melanomas
+WordsPerDisease: D002524,4,cerebellar ataxia,hypermetria,motor incoordination,progressive cerebellar ataxia
+WordsPerDisease: D001927,5,brain abnormalities,brain disease,cerebral dysfunction,degeneration of certain brain areas,encephalopathy
+WordsPerDisease: D018232,2,alveolar rhabdomyosarcoma,pediatric alveolar rhabdomyosarcoma
+WordsPerDisease: D009224,5,dominant myotonia congenita,dominant myotonias,myotonia levior,recessive myotonia,thomsens disease
+WordsPerDisease: OMIM:160800,2,autosomal dominant myotonia congenita,chloride channel disorder
+WordsPerDisease: C536245,1,dominant non-dystrophic myotonias
+WordsPerDisease: C536106,1,muscle hypertrophy
+WordsPerDisease: D007863,8,cholesterol acyltransferase deficiency,classic (complete) lecithin  cholesterol acyltransferase (lcat) deficiency,classic lcat deficiency,complete or partial lcat deficiency,fed,fish-eye disease,lcat deficiency,partial lcat deficiency
+WordsPerDisease: D003111,3,colonic polyps,colorectal polyps,metaplastic polyps of the colorectum
+WordsPerDisease: D003117,5,abnormal color vision,abnormalities in the vision blindness genes,color vision anomalies,color vision defects,phenotypic color vision defects
+WordsPerDisease: D003141,1,infectious diseases
+WordsPerDisease: D000740,4,anemia,anhaptoglobinemia,hypohaptoglobinemia,hypohaptoglobinemic
+WordsPerDisease: D007249,3,adipose tissue inflammation,neutrophil-mediated serosal inflammation,serosal inflammation
+WordsPerDisease: C538249,1,renal amyloidosis
+WordsPerDisease: D011127,2,polyps,rectal polyp
+WordsPerDisease: D005776,9,deficiency of beta-glucocerebrosidase,gaucher disease,gd,gd type ii,type gd ii,type i gd,type ii gaucher disease,type ii gd,type iii gd
+WordsPerDisease: D009422,6,myeloneuropathy,neurodevelopmentally handicapped,neurologic disease,neurologic disorders,neurological dysfunction,neuropathological abnormalities
+WordsPerDisease: D007027,1,hypothalamic abnormalities
+WordsPerDisease: D052456,1,abnormalities in the hdl
+WordsPerDisease: D010214,2,papillon-lefevre syndrome,pls
+WordsPerDisease: D007645,5,keratosis palmoplantaris,palmoplantar hyperkeratosis,palmoplantar keratoderma (ppk) conditions,palmoplantar keratosis,ppk
+WordsPerDisease: D010518,1,periodontitis
+WordsPerDisease: D010510,2,periodontal disease,periodontopathia
+WordsPerDisease: D056732,1,prolidase deficiency
+WordsPerDisease: D012883,1,skin ulcers
+WordsPerDisease: D008268,5,choriocapillaris of the macula,macular degeneration,macular dystrophy,pattern dystrophy,pattern macular dystrophy
+WordsPerDisease: D012174,2,autosomal dominant retinitis pigmentosa,retinitis pigmentosa
+WordsPerDisease: D012607,2,central scotoma,pericentral scotomas
+WordsPerDisease: C536309,1,atrophy of the retinal pigment epithelium
+WordsPerDisease: OMIM:180020,1,cone dysfunction
+WordsPerDisease: C535342|OMIM:116800,2,bilateral lamellar cataracts,lamellar cataracts
+WordsPerDisease: C531610,1,deficiency of aat
+WordsPerDisease: D004646,1,emphysema
+WordsPerDisease: D008107,3,copper overload,hepatic copper accumulation,liver disease
+WordsPerDisease: D009123,4,hypotonia,hypotonic,infantile hypotonia,neonatal hypotonia
+WordsPerDisease: D002658,5,abnormalities in brain development,developmental defects,developmental delay,developmental disorder,semidominant developmental disorders
+WordsPerDisease: D009765,3,childhood-onset obesity,obese,obesity
+WordsPerDisease: D057215,1,dysmorphic features
+WordsPerDisease: D006527,3,wd,wilson disease,wnd
+WordsPerDisease: D015834,1,developmental abnormalities of the cochlea
+WordsPerDisease: D013959,1,diffuse thyroid enlargement
+WordsPerDisease: D030342+D003638,1,hereditary deafness
+WordsPerDisease: D001145,2,cardiac arrhythmia,cardiac conduction disorders
+WordsPerDisease: D006946,1,hyperinsulinaemia
+WordsPerDisease: D058495,1,dmpk haploinsufficiency
+WordsPerDisease: D012859,1,sicca syndrome
+WordsPerDisease: D001172,1,seropositive rheumatoid arthritis
+WordsPerDisease: D020162,2,argininemia,deficiency in the cytosolic liver-type arginase enzyme
+WordsPerDisease: C535331,3,aarskog-scott syndrome,aas,faciogenital dysplasia
+WordsPerDisease: D006130,6,developmental abnormalities,developmental delays,growth retardation,postnatal growth deficiency,short stature,short trunk and extremities
+WordsPerDisease: D019465|D017880|D014564,1,facial, limb and genital abnormalities
+WordsPerDisease: OMIM:300755,1,x-linked agammaglobulinemia
+WordsPerDisease: C538320,1,histidinemia
+WordsPerDisease: C537207,1,kniest dysplasia
+WordsPerDisease: C535964,1,type ii collagenopathy
+WordsPerDisease: OMIM:610170,1,kyphoscoliosis
+WordsPerDisease: OMIM:300194,1,midface hypoplasia
+WordsPerDisease: D034381,2,hearing impairment,hearing loss
+WordsPerDisease: D001321,2,autism,autistic
+WordsPerDisease: D012004,1,carcinoma of the rectum
+WordsPerDisease: D000013,4,congenital anomaly disorders,dysmorphic features,morphological abnormalities,multiple congenital anomalies
+WordsPerDisease: D058456,6,abnormal retinal vascular development,coats disease,coats telangiectasis,coats' disease,retinal telangiectasis,unilateral retinal telangiectasis
+WordsPerDisease: D006949,1,intraretinal and subretinal lipid accumulation
+WordsPerDisease: D012163,2,exudative retinal detachment,retinal detachment
+WordsPerDisease: C538037,5,maternal disomy 15,maternal disomy for chromosome 15,maternal uniparental disomy (upd) for chromosome 15,maternal upd 15,trisomy 15
+WordsPerDisease: OMIM:313900,8,congenital thrombocytopenia,congenital x-linked thrombocytopenia,isolated thrombocytopenia,x linked recessive thrombocytopenia,x linked recessive thrombocytopenic disorder,x-linked congenital thrombocytopenia,x-linked thrombocytopenia,xlt
+WordsPerDisease: D000853,2,anophthalmia,no eyes
+WordsPerDisease: D009421,1,central nervous system defects
+WordsPerDisease: OMIM:106210,2,haploinsufficiency of pax6,pax6 -related disease
+WordsPerDisease: D003317,1,corneal dystrophy
+WordsPerDisease: D019465|D009421,1,craniofacial and central nervous system defects
+WordsPerDisease: D013167,3,ankylosing spondylitis,as,bechterew's syndrome
+WordsPerDisease: OMIM:610102|OMIM:217000,1,complement deficiencies (c2 and c7)
+WordsPerDisease: D056769,1,alstrom syndrome
+WordsPerDisease: D003924,1,non-insulin-dependent diabetes mellitus
+WordsPerDisease: D002609,2,chediak-higashi syndrome,chs
+WordsPerDisease: D008232,2,lymphoproliferative disease,lymphoproliferative syndrome
+WordsPerDisease: D051359,1,hemophagocytosis
+WordsPerDisease: D018197,2,hepatoblastoma,hepatoblastomas
+WordsPerDisease: D008113+D018198,1,malignant tumor of the liver
+WordsPerDisease: D008637,1,mesenchymal tumour
+WordsPerDisease: D018205,1,fat-cell tumours
+WordsPerDisease: D008067,3,lipoma,lipomas,primary lipomas
+WordsPerDisease: OMIM:600698,1,partial or complete deficiency of hmgic
+WordsPerDisease: OMIM:164160,1,leptin deficiency
+WordsPerDisease: D043171,2,chromosomal instability,chromosome instability
+WordsPerDisease: D015451,1,chronic lymphocytic leukemia
+WordsPerDisease: D002051,1,burkitts lymphoma
+WordsPerDisease: OMIM:300100,1,impairment of very long chain fatty acids beta-oxidation
+WordsPerDisease: D025063,2,contiguous gene defects,contiguous gene syndrome
+WordsPerDisease: D016116,2,piebald,piebaldism
+WordsPerDisease: D018198,1,malignant tumors
+WordsPerDisease: C535918|OMIM:115470,3,cat eye syndrome,cat-eye syndrome,ces
+WordsPerDisease: C535733,1,der () syndrome
+WordsPerDisease: D004062,4,dgs,digeorge syndrome,vcfs,velo-cardio-facial syndrome
+WordsPerDisease: D058670,1,tetrasomy
+WordsPerDisease: D004814,1,epidermoid cysts
+WordsPerDisease: D010016,1,osteomata
+WordsPerDisease: D012164,3,chrpe,chrpes,congenital hypertrophy of the retinal pigment epithelium
+WordsPerDisease: D018455,4,deficiencies of protein s,protein s deficiency,protein s deficiency type i,type i protein s deficiency
+WordsPerDisease: D009422|D001523,1,neurological and behavioural disorder
+WordsPerDisease: OMIM:300323,3,hprt deficiencies,hypoxanthine-guanine phosphoribosyltransferase deficiency,partial deficiencies of hprt activity
+WordsPerDisease: D015210,1,gouty arthritis
+WordsPerDisease: D002836,1,hemophilia b
+WordsPerDisease: D009393,1,nephritis
+WordsPerDisease: D011507,1,proteinuria
+WordsPerDisease: D006417,1,haematuria
+WordsPerDisease: D000303,1,impaired function of adrenal cortex and testes
+WordsPerDisease: D007499,1,iris hypoplasia
+WordsPerDisease: D005124,9,autosomal dominant congenital disorder of the eye,congenital eye malformations,congenital malformation of the eye,developmental abnormalities of the eye,eye abnormalities,eye anomalies,eye movement abnormalities,malformation of the eye,ocular anomalies
+WordsPerDisease: D000857,1,anosmia
+WordsPerDisease: OMIM:106210 ,1,haploinsufficiency of pax6
+WordsPerDisease: D015821,1,pigmented ocular fundus lesions
+WordsPerDisease: D007571,2,jaw lesions,osteomatous jaw lesions
+WordsPerDisease: D009810,1,odontoma
+WordsPerDisease: C535468,4,copper deficiency,copper deficient,copper toxicity disorder,intracellular copper accumulation
+WordsPerDisease: D020518,1,late-onset hepatic nodular transformation
+WordsPerDisease: D008107|D009422,1,hepatic and neuro-logical abnormalities
+WordsPerDisease: D010900+D000307,1,pituitary-adrenal abnormality
+WordsPerDisease: D004700,2,endocrinologic dysfunction,monogenic endocrine disorder
+WordsPerDisease: C537243,2,hereditary prostate cancer,hpc
+WordsPerDisease: D011471,12,advanced prostate cancer,advanced prostate cancers,metastatic prostate cancer,prostate adenocarcinoma,prostate cancer,prostate carcinoma,prostate carcinomas,prostate tumors,prostatic adenocarcinoma,prostatic cancer,sporadic prostate cancer,sporadic prostate carcinoma
+WordsPerDisease: D003967,2,diarrhea,diarrhoea
+WordsPerDisease: D003681,1,dehydration
+WordsPerDisease: D007154,3,immune defects,immune deficiencies,immunological abnormalities
+WordsPerDisease: D019337,5,hematologic malignancy,hematologic neoplasms,hematological malignancies,hematological malignancy,hematopoietic and solid tumors
+WordsPerDisease: D006402,1,hematologic disease
+WordsPerDisease: D013118,1,spinal cord syndrome
+WordsPerDisease: D002493,2,central nervous system symptoms,white matter abnormalities
+WordsPerDisease: D002908+D013118,1,chronic myelopathy
+WordsPerDisease: D020964,1,embryonic lethality
+WordsPerDisease: D013132,5,autosomal recessive ataxia,cerebellar degeneration,inherited ataxia,inherited ataxias,spinal cerebellar ataxia
+WordsPerDisease: OMIM:255125,1,iron-sulfur protein deficiency
+WordsPerDisease: D001943|D061325,1,breast and breast-ovarian cancer
+WordsPerDisease: D010534,1,primary peritoneal cancer
+WordsPerDisease: D005185,1,cancer of the fallopian tube
+WordsPerDisease: D010051|D013274|D001661,1,ovarian, gastric, and biliary system carcinomas
+WordsPerDisease: D010190|D002280|D015179|D001943|D002583,1,pancreatic, basal cell, colonic, breast, and cervical carcinomas
+WordsPerDisease: OMIM:604370,7,brca1 abnormalities,brca1 defects,brca1 deficiency,brca1-deficient,breast and/or ovarian cancer,breast/ovarian cancer,deficient in brca1
+WordsPerDisease: D020141,2,haemostasis abnormality,hemostatic abnormalities
+WordsPerDisease: D005076,1,skin rash
+WordsPerDisease: D018771,2,arthralgia,arthralgias
+WordsPerDisease: D017624,2,wagr,wagr contiguous gene syndrome
+WordsPerDisease: D020936,4,benign familial infantile convulsions,benign familial infantile convulsions syndrome,benign familial neonatal convulsions,bfic
+WordsPerDisease: D030342+D004827,1,autosomal dominant epilepsy syndrome
+WordsPerDisease: D004829+D003294,1,generalized epilepsy and febrile seizures   plus  
+WordsPerDisease: D001284,2,atrophy,cerebral atrophy
+WordsPerDisease: D003072,2,cognitive dysfunction,cognitive impairment
+WordsPerDisease: D008831,1,microcephaly
+WordsPerDisease: C536438,1,cohen syndrome
+WordsPerDisease:  D015862+D058499,1,chorioretinal dystrophy
+WordsPerDisease: D020158,2,nkh,nonketotic hyperglycinemia
+WordsPerDisease: D003110|D008175,1,colon or lung cancer
+WordsPerDisease: D018319,2,neurofibrosarcoma,neurofibrosarcomas
+WordsPerDisease: D004938,1,esophageal cancers
+WordsPerDisease: D001859|D012983,1,bone and soft tissue tumors
+WordsPerDisease: D005910,2,glioma,gliomas
+WordsPerDisease: D005909,3,glioblastoma,glioblastomas,primary glioblastomas
+WordsPerDisease: C538068,3,deficiency of hepatic fructokinase,essential fructosuria,fructosuria
+WordsPerDisease: D015535,2,peripheral psoriatic arthritis,psoriatic arthropathy
+WordsPerDisease: C538273+D001168,1,entero-arthropathy
+WordsPerDisease: D058566,1,sacro-iliitis
+WordsPerDisease: D011565,1,psoriasis
+WordsPerDisease: D014606,1,acute anterior uveitis
+WordsPerDisease: D007592,2,arthropathy,restricted joint mobility
+WordsPerDisease: D015212,1,inflammatory bowel disease
+WordsPerDisease: D007249+D030342,2,hemri,hereditary multifocal relapsing inflammation
+WordsPerDisease: C538273+D007592,1,entero-arthropathy
+WordsPerDisease: D006457,3,paroxysmal nocturnal haemoglobinuria,paroxysmal nocturnal hemoglobinuria,pnh
+WordsPerDisease: D018335,3,malignant rhabdoid tumors,rhabdoid,rhabdoid tumors
+WordsPerDisease: D020288,1,choroid plexus carcinomas
+WordsPerDisease: D017599,1,neuroectodermal tumors
+WordsPerDisease: D004806,1,ependymomas
+WordsPerDisease: D012509,1,sarcomas
+WordsPerDisease: D002971,2,cleft lip,clp
+WordsPerDisease: D010051|D001943,4,breast and ovarian cancers,breast and/or ovarian cancer,breast or ovarian cancer,ovarian or breast cancer
+WordsPerDisease: D052476,1,familial hypobetalipoproteinemia
+WordsPerDisease: D003323,1,coronary vascular disease
+WordsPerDisease: OMIM:238600,1,chylomicronemia
+WordsPerDisease: D009436,1,exencephalus
+WordsPerDisease: D006849,1,hydrocephalus
+WordsPerDisease: D000746,6,chronic nonspherocytic hemolytic anemia,cnsha,congenital nonspherocytic hemolytic anemia,hereditary non-spherocytic hemolytic anemia,hereditary nonspherocytic hemolytic anemia,hnsha
+WordsPerDisease: D001943+D010051,1,breast and ovarian cancer
+WordsPerDisease: D006689,2,hodgkin lymphoma,hodgkins disease
+WordsPerDisease: D000544,3,ad,alzheimer disease,alzheimers disease
+WordsPerDisease: D020271,7,autosomal recessive neurodegenerative disease,autosomal recessive neurodegenerative disorder,dominantly inherited neurodegeneration,neurogenetic disease,neurogenetic disorder,neurological diseases,x-linked recessive neurological disorder
+WordsPerDisease: D003919,1,diabetes insipidus
+WordsPerDisease: D010181|D010190,1,pancreatic cysts and tumors
+WordsPerDisease: D010673,4,phaeochromocytoma,phaeochromocytomas,pheochromocytoma,pheochromocytomas
+WordsPerDisease: D036821,1,endolymphatic sac tumors
+WordsPerDisease: D003537,2,cystadenomas of the epididymis,epididymal cystadenomas
+WordsPerDisease: D003093,1,ulcerative colitis
+WordsPerDisease: D013166,1,spondylitis
+WordsPerDisease: D018292,2,papillary cystadenoma,papillary cystadenoma of the epididymis
+WordsPerDisease: C538445,2,clear-cell renal cell carcinoma,metastatic renal cell carcinoma
+WordsPerDisease: D005402,1,fistulae
+WordsPerDisease: D020279,6,brain dysmyelinating disease,demyelination of the central nervous system,inborn errors of myelin metabolism,x-linked developmental defect of myelination,x-linked dysmyelinating disorder,x-linked neurologic disorder of myelin metabolism
+WordsPerDisease: D020371,1,pmd
+WordsPerDisease: OMIM:222300,2,wfs,wolfram syndrome
+WordsPerDisease: D003922,3,iddm,insulin-dependent diabetes mellitus,juvenile-onset diabetes mellitus
+WordsPerDisease: D009896,1,optic atrophy
+WordsPerDisease: D001523,3,behavioral abnormalities,psychiatric disorder,psychiatric disorders
+WordsPerDisease: D003920,2,diabetes,diabetes mellitus
+WordsPerDisease: D003456,1,cryptorchidism
+WordsPerDisease: D005317,2,growth retardation,intrauterine growth retardation
+WordsPerDisease: D010033,1,middle ear infections
+WordsPerDisease: D001943|D011471,1,breast and prostate cancer
+WordsPerDisease: D000008+D002277,1,intra-abdominal carcinomatosis
+WordsPerDisease: D009358,1,familial disorder
+WordsPerDisease: OMIM:200100,1,deficiency of apob-100
+WordsPerDisease: OMIM:109150,2,adca type i,type i autosomal dominant cerebellar ataxia
+WordsPerDisease: OMIM:125370,1,dentatorubropallidoluysian atrophy
+WordsPerDisease: C537627,2,haim-munk syndrome,hms
+WordsPerDisease: D054119,1,arachnodactyly
+WordsPerDisease: D009260,2,atrophic changes of the nails,brittle nails with prominent longitudinal grooves
+WordsPerDisease: D006226,1,radiographic deformity of the fingers
+WordsPerDisease: C537277,2,deficiency of glycosyl phosphatidylinositol (gpi) -anchored proteins,gpi-anchor deficiency
+WordsPerDisease: D057130,1,congenital blindness
+WordsPerDisease: C535916,2,cartilage-hair hypoplasia,chh
+WordsPerDisease: D008228,1,non-hodgkins lymphoma
+WordsPerDisease: D002280,1,basal cell carcinoma
+WordsPerDisease: C536288|D007011,1,aplasia or hypoplasia of the thymus and parathyroid glands
+WordsPerDisease: C535464,1,conotruncal cardiac malformations
+WordsPerDisease: D012512,4,ewing family of tumors,ewing sarcoma,ewing tumors,ewings sarcoma
+WordsPerDisease: D001766,1,blindness
+WordsPerDisease: OMIM:610743,1,autosomal recessive ataxia
+WordsPerDisease: OMIM:602482|OMIM:153400,1,haploinsufficiency of the transcription factors foxc1 and foxc2
+WordsPerDisease: C537775,5,anterior segment abnormalities,anterior segment anomalies,anterior segment defects,anterior segment developmental disorders,anterior segment malformations
+WordsPerDisease: C535679,3,ara,axenfeld-rieger anomaly,axenfeldt anomaly
+WordsPerDisease: D005901,1,glaucoma
+WordsPerDisease: C538219,3,dermatofibrosarcoma protuberans,dfsp,giant cell fibroblastoma
+WordsPerDisease: D000686,1,amyloidosis
+WordsPerDisease: D059352,1,myalgia
+WordsPerDisease: D035583,1,rare diseases
+WordsPerDisease: D049932,2,nbs,nijmegen breakage syndrome
+WordsPerDisease: D017204,2,angelman syndrome,as
+WordsPerDisease: D018798,1,dietary iron deficiency
+WordsPerDisease: OMIM:103600,1,analbuminemia
+WordsPerDisease: D003876,1,atopic dermatitis
+WordsPerDisease: D001249,1,bronchial asthma
+WordsPerDisease: D004827,2,idiopathic epilepsies,seizure disorder
+WordsPerDisease: D006951,1,hyperlipoproteinemia
+WordsPerDisease: D001112,1,corneal arcus
+WordsPerDisease: OMIM:262400,1,growth hormone (gh) deficiency
+WordsPerDisease: OMIM:274400,1,iodide transport defect
+WordsPerDisease: D003409,1,congenital hypothyroidism
+WordsPerDisease: D020246,1,venous thrombosis
+WordsPerDisease: D019851,2,thrombophilic conditions,thrombophilic defect
+WordsPerDisease: OMIM:612336,3,defects in the pros1 gene,pros1 gene defect,pros1 gene defects
+WordsPerDisease: D013927,1,thrombosis
+WordsPerDisease: D051346,1,loss of ambulation
+WordsPerDisease: D005879,2,tourette syndrome,ts
+WordsPerDisease: OMIM:119500,1,popliteal pterygia syndrome
+WordsPerDisease: OMIM:119530,1,nonsyndromic cleft lip and palate
+WordsPerDisease: OMIM:253000,4,deficiency of n -acetylgalactosamine-6-sulfate sulfatase,mps iva,mucopolysaccharidosis iva,mucopolysaccharidosis type iva
+WordsPerDisease: D009085,1,deficiency in n-acetylgalactosamine-6-sulfatase
+WordsPerDisease: D054098,1,neonatal alloimmune thrombocytopenia
+WordsPerDisease: OMIM:300842,2,mcleod,mcleod syndrome
+WordsPerDisease: D002819,1,choreic movement
+WordsPerDisease: D024741,2,familial hypertrophic cardiomyopathy,fhc
+WordsPerDisease: C536277,2,idc,idiopathic dilated cardiomyopathy
+WordsPerDisease: D058405,2,desmoplastic small round cell tumors,desmoplastic small round cell tumour
+WordsPerDisease: D006456,1,haemoglobinuria
+WordsPerDisease: D007565,1,jaundice
+WordsPerDisease: D000782,1,aneuploidy
+WordsPerDisease: D008581+D012008,1,recurrent meningitis
+WordsPerDisease: D034381|C537845,1,syndromic and non-syndromic hearing loss
+WordsPerDisease: C535700,1,mesenchymal tumors
+WordsPerDisease: D006521,2,autoimmune chronic active hepatitis,cah
+WordsPerDisease: OMIM:614380+OMIM:614379,1,c4 deficiency
+WordsPerDisease: D018284,1,serous cystadenocarcinoma
+WordsPerDisease: D003123,5,colorectal adenomas,hereditary non-polyposis cancer syndrome,hereditary non-polyposis colorectal cancer,hereditary nonpolyposis colorectal cancer,hnpcc
+WordsPerDisease: D006528,1,hepatoma
+WordsPerDisease: D000567,1,amelogenesis imperfecta
+WordsPerDisease: D016111,4,deficiency of fatty alcohol  nad + oxidoreductase,deficient activity of fatty aldehyde dehydrogenase,sjogren-larsson syndrome,sls
+WordsPerDisease: D005235,1,abnormality in fatty alcohol metabolism
+WordsPerDisease: D018149,2,igt,impaired glucose tolerance
+WordsPerDisease: D015228,1,hypertriglyceridemia
+WordsPerDisease: D002318,1,cardiovascular disease
+WordsPerDisease: C538138,4,cgkd,complex glycerol kinase deficiency,glycerol kinase deficiency,hyperglycerolemia
+WordsPerDisease: C531603,1,congenital afibrinogenemia
+WordsPerDisease: D000347,1,afibrinogenemia
+WordsPerDisease: D033461,1,hyperuricemia
+WordsPerDisease: C537181,2,chroeoathetosis,paroxysmal dystonic choreoathetosis
+WordsPerDisease: D009128,1,spasticity
+WordsPerDisease: D004401,1,dysarthric speech
+WordsPerDisease: D052177|D010181|D013088,1,cysts in the kidney, pancreas, and epididymis
+WordsPerDisease: D056725,2,type i von willebrand disease,type i vwd
+WordsPerDisease: D003318,1,corneal opacity
+WordsPerDisease: D003327,2,chd,coronary heart disease
+WordsPerDisease: C536575,3,bfls,bfls syndrome,borjeson-forssman-lehmann syndrome
+WordsPerDisease: C531652,2,progressive tapeto-choroidal dystrophy,tcd
+WordsPerDisease: D011115,1,myelinopathies
+WordsPerDisease: D010523,1,hypomyelination of the pns
+WordsPerDisease: C548028,1,inherited peripheral neuropathies
+WordsPerDisease: D002607,1,charcot-marie-tooth type 1
+WordsPerDisease: C538392,1,dejerine-sottas syndrome
+WordsPerDisease: OMIM:605253,1,congenital hypomyelinating neuropathy
+WordsPerDisease: D025861,2,genetic bleeding disorders,inherited bleeding disorder
+WordsPerDisease: D056728,2,type iia vwd,type iid von willebrand disease
+WordsPerDisease: D011218|D017204,1,prader-willi and angelman syndromes
+WordsPerDisease: D010051|D016889|D015179,1,colorectal, endometrial, and ovarian cancers
+WordsPerDisease: D016889,3,endometrial cancer,endometrial carcinoma,endometrial carcinomas
+WordsPerDisease: D012141,1,upper respiratory infection
+WordsPerDisease: C536456,2,cfnd,craniofrontonasal dysplasia
+WordsPerDisease: C538065,1,frontonasal dysplasia
+WordsPerDisease: C537369,1,coronal craniosynostosis
+WordsPerDisease: D013576,1,syndactyly of fingers and toes
+WordsPerDisease: C535884,1,laxity of joints
+WordsPerDisease: D020821,5,dystonias 1-12,focal dystonia,hereditary progressive dystonia,hpd,primary dystonias
+WordsPerDisease: D009069,1,movement disorders
+WordsPerDisease: D004422,1,idiopathic torsion dystonia
+WordsPerDisease: OMIM:314250,1,x-linked dystonia parkinsonism syndrome
+WordsPerDisease: OMIM:304500,1,x-linked sensorineural deafness
+WordsPerDisease: D012600,1,scoliosis
+WordsPerDisease: D005530,1,foot deformity
+WordsPerDisease: D020886,2,impaired proprioception,loss of proprioception
+WordsPerDisease: D001745,1,bladder symptoms
+WordsPerDisease: OMIM:213700,1,abnormality of cyp27
+WordsPerDisease: D002526,2,abnormalities in the bilateral cerebellar hemispheres,cerebellar dysfunction
+WordsPerDisease: D009120,1,sustained muscle contraction
+WordsPerDisease: C535506,2,ea-2,episodic ataxia type 2
+WordsPerDisease: D020325,2,familial hemiplegic migraine,fhm
+WordsPerDisease: OMIM:183086,2,sca6,spinocerebellar ataxia 6
+WordsPerDisease: D008881,1,migraine
+WordsPerDisease: D044483,1,polyposis
+WordsPerDisease: D009135+D030342,2,inherited disorder of skeletal muscle,inherited muscle disorder
+WordsPerDisease: D019282,1,wasting of humero-peroneal muscles
+WordsPerDisease: D003645,2,sudden death,sudden, unexplained death
+WordsPerDisease: D052919,1,infantile refsum disease
+WordsPerDisease: D012216,2,rheumatic diseases,rheumatic disorder
+WordsPerDisease: D005171,1,factor x deficiency
+WordsPerDisease: D006474,1,haemorrhagic condition
+WordsPerDisease: D019042,1,pediatric cancer of striated muscle
+WordsPerDisease: OMIM:604391,2,ataxia-telangiectasia-like disorder,atld
+WordsPerDisease: D006501,1,hepatic encephalopathy
+WordsPerDisease: D017093,1,liver failure
+WordsPerDisease: D006323,1,cardiac arrest
+WordsPerDisease: OMIM:310200,1,dystrophin deficiency
+WordsPerDisease: D000686|D010505,1,mef-amyloidosis
+WordsPerDisease: D006932,1,hyperbilirubinaemia
+WordsPerDisease: D018268,3,adrenocorotical carcinoma,adrenocortical carcinoma,adrenocortical tumors
+WordsPerDisease: D004701,1,endocrine neoplasms
+WordsPerDisease: D002277,1,carcinoma
+WordsPerDisease: C535944,1,desmoid tumor
+WordsPerDisease: D009447,1,neuroblastoma
+WordsPerDisease: D015324,2,pc portland deficiency,pyruvate carboxylase deficiency
+WordsPerDisease: D000312,2,ahc,congenital adrenal hypoplasia
+WordsPerDisease: C535764,2,gonadotropin deficiency,gtd
+WordsPerDisease: D006467,1,hemophilia a
+WordsPerDisease: D006467|D002836,1,hemophilia
+WordsPerDisease: D012516,1,osteosarcoma
+WordsPerDisease: D017202,1,ischemic heart disease
+WordsPerDisease: D007246,1,infertility
+WordsPerDisease: D052159,2,frasier syndrome,fs
+WordsPerDisease: D020234|D001259,1,progressive gait and limb ataxia
+WordsPerDisease: D012021,1,absence of deep tendon reflexes
+WordsPerDisease: D001405,1,extensor plantar responses
+WordsPerDisease: D053421,1,loss of position and vibration sense
+WordsPerDisease: D028227,2,familial amyloidotic polyneuropathy,fap
+WordsPerDisease: OMIM:604370|OMIM:612555|OMIM:613399|D010051,1,brca-linked and sporadic ovarian cancer
+WordsPerDisease: OMIM:604370|OMIM:612555|OMIM:613399,1,brca-associated hereditary ovarian cancers
+WordsPerDisease: OMIM:604370|OMIM:612555,1,brca1-linked than for brca2-linked cancers
+WordsPerDisease: D016512,1,ankle edema
+WordsPerDisease: D005221,1,ease of fatigue
+WordsPerDisease: D007022,1,arterial hypotension
+WordsPerDisease: D005313,1,stillborn
+WordsPerDisease: D053632,1,x-linked recessive immunodeficiency
+WordsPerDisease: D019767,1,mid-face hypoplasia
+WordsPerDisease: D009078,1,mucous cysts
+WordsPerDisease: D017496,2,hypopigmentation,hypopigmented
+WordsPerDisease: D006069,1,gonococcal infection
+WordsPerDisease: D016538,3,beta-glucuronidase deficiency,mps vii,mucopolysaccharidosis vii
+WordsPerDisease: D016388,1,tooth loss
+WordsPerDisease: D017488,1,hyperkeratosis
+WordsPerDisease: D007642,1,keratosis
+WordsPerDisease: D018302,1,neuroepithelial abnormalities
+WordsPerDisease: D016135,1,spina bifida
+WordsPerDisease: D000757,1,anencephaly
+WordsPerDisease: D056729,1,severe von willebrand disease
+WordsPerDisease: D008581,1,meningitis
+WordsPerDisease: D016920,1,bacterial meningitis
+WordsPerDisease: D008586,1,purulent meningitis
+WordsPerDisease: D004406,1,immunoglobulin deficiency
+WordsPerDisease: D000257,1,adenovirus infection
+WordsPerDisease: OMIM:230400,1,galactosemic
+WordsPerDisease: D012257,1,riboflavin deficiency
+WordsPerDisease: OMIM:260350,1,pancreatic malignancies
+WordsPerDisease: D015499,1,defective renal tubular function
+WordsPerDisease: D013953,1,thymic lymphoma
+WordsPerDisease: OMIM:208900,1,atm deficiency
+WordsPerDisease: D019954,1,neurobehavioral disorders
+WordsPerDisease: OMIM:190350,2,trichorhinophalangeal syndrome,trps
+WordsPerDisease: C535804,1,fundus flavimaculatus
+WordsPerDisease: OMIM:136880,1,retinitis punctata albescens
+WordsPerDisease: C537884,2,peters anomaly,peters' anomaly
+WordsPerDisease: OMIM:136520,3,familial foveal dysplasia,foveal hypoplasia,isolated foveal hypoplasia
+WordsPerDisease: D006058,1,gonadal hypoplasia
+WordsPerDisease: D006963,1,hyperphagia
+WordsPerDisease: D016472,3,dying-back axonopathy,spinal abnormalities,spinal sep abnormalities
+WordsPerDisease: D004660,1,inflammatory brain lesions
+WordsPerDisease: D007057,1,ichthyosis
+WordsPerDisease: D007960,1,granulocyte dysfunction
+WordsPerDisease: D015179|D013274,2,gastric and colorectal cancer,gastric and colorectal cancers
+WordsPerDisease: D015179|D009369,1,colorectal and other cancers
+WordsPerDisease: OMIM:202370|OMIM:214100,1,pts1 protein-import defect
+WordsPerDisease: OMIM:312920,2,spg,x-linked spastic paraplegia
+WordsPerDisease: OMIM:215600,3,copper toxicosis,ct,non-indian childhood cirrhosis
+WordsPerDisease: C536185,2,displaced pupils,ectopia pupillae
+WordsPerDisease: D020417,3,congenital nystagmus,nystagmus,searching gaze
+WordsPerDisease: C537022,1,autosomal dominant keratitis
+WordsPerDisease: D006223,6,bannayan-zonana (bzs) or ruvalcaba-riley-smith syndrome,bannayan-zonana syndrome,bzs,cd,cowden disease,hamartoma syndromes
+WordsPerDisease: D001943|D001932|D011471|D007680,1,sporadic breast, brain, prostate and kidney cancer
+WordsPerDisease: D013964,1,thyroid tumours
+WordsPerDisease: D001941,2,breast disease,malignant breast disease
+WordsPerDisease: D058490,1,male pseudohermaphroditism
+WordsPerDisease: C536587,1,autosomal recessive alport syndrome
+WordsPerDisease: D020754,2,cerebellar ataxia type i,cerebellar ataxias type i
+WordsPerDisease: OMIM:164400|OMIM:183090,1,spinocerebellar ataxias 1 and 2
+WordsPerDisease: OMIM:164400,1,sca1
+WordsPerDisease: OMIM:183090,1,sca2
+WordsPerDisease: D009759,1,gaze-evoked nystagmus
+WordsPerDisease: D015458,2,mature t-cell leukaemia,sporadic t-cell leukaemia
+WordsPerDisease: D015461,3,sporadic t-cell prolymphocytic leukaemia,sporadic t-pll,t-pll
+WordsPerDisease:  D007945,1,clonal malignancy
+WordsPerDisease: D003643,2,early death,premature death
+WordsPerDisease: C537502,4,schwartz-jampel syndrome type 2,sjs type 2,stuve-wiedemann syndrome,sws
+WordsPerDisease: MESH:C535662,1,skeletal dysplasia
+WordsPerDisease: C537966,1,campomelia
+WordsPerDisease: D055036,1,campomelic-metaphyseal skeletal dysplasia
+WordsPerDisease: D001848,1,bone dysplasia
+WordsPerDisease: OMIM:613399,1,familial breast and ovarian cancer
+WordsPerDisease: D019572|D010871,2,pineal and retinal tumours,retinal and the pineal tumours
+WordsPerDisease: C536210,2,cld,congenital chloride diarrhea
+WordsPerDisease: D020143,3,g (m2) gangliosidosis,g(m2) gangliosidosis,infantile form of g (m2) gangliosidosis, type 1
+WordsPerDisease: D002311,2,x-linked dilated cardiomyopathy,xldcm
+WordsPerDisease: OMIM:101400,1,saethre-chotzen syndrome
+WordsPerDisease: D003398,4,brachycephaly,coronal synostosis,craniosynostosis,craniosynostotic condition
+WordsPerDisease: D017880,1,limb anomalies
+WordsPerDisease: D005146,1,facial asymmetry
+WordsPerDisease: D001763,1,ptosis
+WordsPerDisease: D005532,1,broad great toes
+WordsPerDisease: C536852,1,clinodactyly
+WordsPerDisease: OMIM:101400|OMIM:123500|OMIM:101600,1,saethre-chotzen, crouzon, and pfeiffer syndromes
+WordsPerDisease: D005834,1,male cancer
+WordsPerDisease: D046349,5,deficiency of coproporphyrinogen oxidase,deficient activity of coproporphyrinogen iii oxidase,hc,hcp,hereditary coproporphyria
+WordsPerDisease: D017094,1,hepatic porphyria
+WordsPerDisease: D018256|D015179,2,colorectal adenomas and carcinoma,colorectal adenomas and/or carcinoma
+WordsPerDisease: D019189,1,inherited disorder of iron metabolism
+WordsPerDisease: C531844,2,von willebrand factor (vwf) deficiency,vwf-deficient
+WordsPerDisease: D057772,1,vascular injury
+WordsPerDisease:  D007153,1,complement deficiency
+WordsPerDisease: OMIM:609814,3,deficiency in the human complement regulatory protein factor h,factor h deficiency,human complement factor h deficiency
+WordsPerDisease: D006463,2,hemolytic uremic syndrome,hus
+WordsPerDisease: D014693,1,ventricular fibrillation
+WordsPerDisease: D009369|D015179,1,colorectal, or other, cancers
+WordsPerDisease: D001943|D015179|D009369,1,colorectal, breast and other cancers
+WordsPerDisease: D016109,2,atrophic benign epidermolysis bullosa,junctional epidermolysis bullosa
+WordsPerDisease: D009456,2,neurofibromatosis type 1,nf1
+WordsPerDisease: D019964,2,affective disorders,hypomania
+WordsPerDisease: D003866,1,depression
+WordsPerDisease: D001304,1,auditory anomalies
+WordsPerDisease: D014849,1,waardenburg syndrome
+WordsPerDisease: D010051|D009369,1,ovarian or other cancers
+WordsPerDisease: D018567|D001943,1,male and female breast cancer
+WordsPerDisease: OMIM:201400|C535668,1,acth deficiency
+WordsPerDisease: D010190,4,pancreatic cancer,pancreatic cancers,pancreatic tumors,pancreatic tumour
+WordsPerDisease: D001768,1,blistering
+WordsPerDisease: C538333,1,nail dystrophy
+WordsPerDisease: C531609,1,patchy alopecia
+WordsPerDisease: C536183,1,skin fragility
+WordsPerDisease: D006330,1,cardiac defects
+WordsPerDisease: D018275,1,invasive lobular cancers
+WordsPerDisease: D044584,2,ductal carcinomas,low-grade ductal carcinomas
+WordsPerDisease:  D008661,1,enzyme deficiency
+WordsPerDisease: D013945,1,thymomas
+WordsPerDisease: D001932|D001943|D011471,1,brain, breast, and prostate cancer
+WordsPerDisease: D048629,1,chromosomal fragmentation during meiosis
+WordsPerDisease: D054508,1,acute radiation toxicity
+WordsPerDisease: D007153+D040181,1,x-linked immunodeficiency disease
+WordsPerDisease: D053842,1,microsatellite instability
+WordsPerDisease: D003095,1,defective formation of type ii collagen
+WordsPerDisease: OMIM:255800,5,chondrodystrophic myotonia,schwartz-jampel chondrodystrophic myotonia,schwartz-jampel syndrome,sjs,sjs  type 1a
+WordsPerDisease: C536252,1,pyle disease
+WordsPerDisease: D004535,1,type iv ehlers-danlos syndrome
+WordsPerDisease: D001019,1,aortic rupture
+WordsPerDisease: D014202,1,tremors
+WordsPerDisease: D003704,1,dementia
+WordsPerDisease: D010554,1,personality disorders
+WordsPerDisease: OMIM:312080+OMIM:312920,1,plp-associated disease
+WordsPerDisease: D007680,2,kidney cancer,renal lesions
+WordsPerDisease: D006059,1,gonadal anomaly
+WordsPerDisease: D006106,1,juvenile granulosa cell tumour
+WordsPerDisease: D015470,1,acute myeloid leukemia
+WordsPerDisease: OMIM:300322+OMIM:102600,2,aprt-hprt-deficient,hprt-aprt-deficient
+WordsPerDisease: OMIM:102600,2,aprt deficiency,deficiency of aprt
+WordsPerDisease: OMIM:160900,1,dmpk deficient
+WordsPerDisease: D020966,1,fibre degeneration
+WordsPerDisease: D005355,1,fibrosis
+WordsPerDisease: D017034,1,autosomal dominant nocturnal frontal lobe epilepsy
+WordsPerDisease: C537750,1,renal oncocytomas
+WordsPerDisease: OMIM:222600,1,dtdst chondrodysplasias
+WordsPerDisease: D007248,1,male-infertility
+WordsPerDisease: OMIM:612446|OMIM:610102,4,c6 and c7 deficiencies,c6 or c7 deficiency,combined subtotal deficiencies of c6 and c7,combined subtotal deficiency of c6 and c7
+WordsPerDisease: D011471|D010190|D012878|D008175,1,prostatic, pancreas, skin, and lung cancer
+WordsPerDisease: D009837,1,oligodendroglioma
+WordsPerDisease: D002296,1,carcinosarcoma
+WordsPerDisease: OMIM:145001,4,hereditary hyperparathyroidism-jaw tumor syndrome,hpt-jt,hpt-jt syndrome,hyperparathyroidism and jaw tumor syndrome
+WordsPerDisease: D007674+D006222,1,renal hamartomas
+WordsPerDisease: D052177,1,cystic kidney disease
+WordsPerDisease: C536399,1,adult renal hamartomas
+WordsPerDisease: D006961,1,hpt
+WordsPerDisease: D007573,2,jaw tumor,jt
+WordsPerDisease: D007690,1,polycystic kidney disease
+WordsPerDisease: D049950,1,primary hpt
+WordsPerDisease: D009377,1,multiple endocrine neoplasia (men) types 1 and 2
+WordsPerDisease: OMIM:131100,1,men1
+WordsPerDisease: D018813,1,men2
+WordsPerDisease: D001943|D010051|D009369,1,breast, ovarian, or other cancers
+WordsPerDisease: D007890,1,leiomyosarcoma
+WordsPerDisease: D012175|D018325,1,retinal, cerebellar and spinal haemangioblastomas
+WordsPerDisease: D007965,4,adult onset globoid cell leukodystrophy,ao-gld,gld,if-gld
+WordsPerDisease: OMIM:245200,1,krabbe disease
+WordsPerDisease: D010264,1,spastic paraplegia
+WordsPerDisease: C538554,1,diminished galc activity
+WordsPerDisease: OMIM:125852,1,insulin-dependent diabetes mellitus
+WordsPerDisease: OMIM:607834,2,anxiety-related personality traits,anxiety-related traits
+UniqueDiseaseCount: D001260,147
+UniqueDiseaseCount: C538265,28
+UniqueDiseaseCount: C535331,8
+UniqueDiseaseCount: D000012,7
+UniqueDiseaseCount: D003117,9
+UniqueDiseaseCount: D058456,9
+UniqueDiseaseCount: D002658,7
+UniqueDiseaseCount: D002526,3
+UniqueDiseaseCount: D052456,1
+UniqueDiseaseCount: D000015,1
+UniqueDiseaseCount: D009139,2
+UniqueDiseaseCount: D005235,1
+UniqueDiseaseCount: OMIM:213700,1
+UniqueDiseaseCount: D012021,1
+UniqueDiseaseCount: OMIM:610102,35
+UniqueDiseaseCount: D007926,52
+UniqueDiseaseCount: D015783,79
+UniqueDiseaseCount: OMIM:612446,20
+UniqueDiseaseCount: C536016,4
+UniqueDiseaseCount: D030981,2
+UniqueDiseaseCount: OMIM:201400|C535668,2
+UniqueDiseaseCount: D014606,1
+UniqueDiseaseCount: D007938,13
+UniqueDiseaseCount: D008585,9
+UniqueDiseaseCount: D015470,1
+UniqueDiseaseCount: D054508,2
+UniqueDiseaseCount: D007674,12
+UniqueDiseaseCount: D000544,3
+UniqueDiseaseCount: OMIM:109150,4
+UniqueDiseaseCount: D000224,13
+UniqueDiseaseCount: D000236,14
+UniqueDiseaseCount: D011125,243
+UniqueDiseaseCount: D018256,4
+UniqueDiseaseCount: D000257,1
+UniqueDiseaseCount: D007249,3
+UniqueDiseaseCount: OMIM:125700,21
+UniqueDiseaseCount: D000326,232
+UniqueDiseaseCount: D000309,9
+UniqueDiseaseCount: D018268,3
+UniqueDiseaseCount: D007966,50
+UniqueDiseaseCount: D007965,6
+UniqueDiseaseCount: C536399,1
+UniqueDiseaseCount: D011471,37
+UniqueDiseaseCount: D009386,7
+UniqueDiseaseCount: D019964,2
+UniqueDiseaseCount: D000347,1
+UniqueDiseaseCount: D054880,24
+UniqueDiseaseCount: D000312,3
+UniqueDiseaseCount: C538243,11
+UniqueDiseaseCount: D000474,26
+UniqueDiseaseCount: D030342,129
+UniqueDiseaseCount: D000795,7
+UniqueDiseaseCount: D056735,27
+UniqueDiseaseCount: D056769,4
+UniqueDiseaseCount: D018232,9
+UniqueDiseaseCount: D000567,1
+UniqueDiseaseCount: D000686,3
+UniqueDiseaseCount: OMIM:103600,7
+UniqueDiseaseCount: D000740,9
+UniqueDiseaseCount: D000757,1
+UniqueDiseaseCount: D000782,1
+UniqueDiseaseCount: D017204,9
+UniqueDiseaseCount: D000799,2
+UniqueDiseaseCount: D000794,1
+UniqueDiseaseCount: D003286,9
+UniqueDiseaseCount: D016512,1
+UniqueDiseaseCount: D013167,52
+UniqueDiseaseCount: D000853,2
+UniqueDiseaseCount: D000857,1
+UniqueDiseaseCount: C537775,7
+UniqueDiseaseCount: D001008,2
+UniqueDiseaseCount: OMIM:607834,2
+UniqueDiseaseCount: C535395,13
+UniqueDiseaseCount: D001019,1
+UniqueDiseaseCount: C536288|D007011,1
+UniqueDiseaseCount: OMIM:102600,2
+UniqueDiseaseCount: OMIM:300322+OMIM:102600,3
+UniqueDiseaseCount: C535679,4
+UniqueDiseaseCount: D054119,1
+UniqueDiseaseCount: D020162,4
+UniqueDiseaseCount: D007022,1
+UniqueDiseaseCount: D018771,4
+UniqueDiseaseCount: D001168,8
+UniqueDiseaseCount: D007592,2
+UniqueDiseaseCount: OMIM:604391,3
+UniqueDiseaseCount: D050197,7
+UniqueDiseaseCount: OMIM:208900,1
+UniqueDiseaseCount: D003876,1
+UniqueDiseaseCount: D016109,7
+UniqueDiseaseCount: D009260,2
+UniqueDiseaseCount: D001284,3
+UniqueDiseaseCount: C536309,1
+UniqueDiseaseCount: D001304,1
+UniqueDiseaseCount: D001321,2
+UniqueDiseaseCount: D006521,4
+UniqueDiseaseCount: D001327,2
+UniqueDiseaseCount: D001847,2
+UniqueDiseaseCount: C536528,51
+UniqueDiseaseCount: D005124,9
+UniqueDiseaseCount: D019465,3
+UniqueDiseaseCount: D030342+D004827,1
+UniqueDiseaseCount: C537022,2
+UniqueDiseaseCount: OMIM:160800,3
+UniqueDiseaseCount: D019636,13
+UniqueDiseaseCount: D017034,2
+UniqueDiseaseCount: D012174,5
+UniqueDiseaseCount: C536587,3
+UniqueDiseaseCount: OMIM:610743,2
+UniqueDiseaseCount: D030342+D019636,1
+UniqueDiseaseCount: OMIM:606824,10
+UniqueDiseaseCount: D005693,41
+UniqueDiseaseCount: D016464,9
+UniqueDiseaseCount: D020271,8
+UniqueDiseaseCount: OMIM:600791,11
+UniqueDiseaseCount: D016393,5
+UniqueDiseaseCount: D016870,8
+UniqueDiseaseCount: D001424,3
+UniqueDiseaseCount: D016920,2
+UniqueDiseaseCount: D006223,19
+UniqueDiseaseCount: D002280,1
+UniqueDiseaseCount: D020388|C537666,12
+UniqueDiseaseCount: C537666,33
+UniqueDiseaseCount: D001523,5
+UniqueDiseaseCount: D015179,76
+UniqueDiseaseCount: D020936,11
+UniqueDiseaseCount: D009468,5
+UniqueDiseaseCount: D009369,285
+UniqueDiseaseCount: D016538,5
+UniqueDiseaseCount: C536575,6
+UniqueDiseaseCount: C531732,1
+UniqueDiseaseCount: D018325,13
+UniqueDiseaseCount: D012175,55
+UniqueDiseaseCount: C535342|OMIM:116800,2
+UniqueDiseaseCount: D001714,15
+UniqueDiseaseCount: D001745,3
+UniqueDiseaseCount: D001766,2
+UniqueDiseaseCount: D001768,1
+UniqueDiseaseCount: D001859|D012983,1
+UniqueDiseaseCount: D001848,6
+UniqueDiseaseCount: D003398,4
+UniqueDiseaseCount: D001927,6
+UniqueDiseaseCount: D020279,7
+UniqueDiseaseCount: D001932|D001943|D011471,1
+UniqueDiseaseCount: OMIM:604370|OMIM:612555|OMIM:613399,1
+UniqueDiseaseCount: OMIM:604370|OMIM:612555|OMIM:613399|D010051,1
+UniqueDiseaseCount: OMIM:604370,8
+UniqueDiseaseCount: OMIM:604370|OMIM:612555,1
+UniqueDiseaseCount: D001943|D010051,22
+UniqueDiseaseCount: D001943|D061325,2
+UniqueDiseaseCount: D061325,115
+UniqueDiseaseCount: D001943|D011471,1
+UniqueDiseaseCount: D001943|D018307,1
+UniqueDiseaseCount: D001943,127
+UniqueDiseaseCount: D001941,2
+UniqueDiseaseCount: D001943|D010051|D009369,1
+UniqueDiseaseCount: D005532,1
+UniqueDiseaseCount: D001249,1
+UniqueDiseaseCount: D053840,1
+UniqueDiseaseCount: D002051,1
+UniqueDiseaseCount: OMIM:217000,50
+UniqueDiseaseCount: OMIM:613779,19
+UniqueDiseaseCount: OMIM:614380+OMIM:614379,1
+UniqueDiseaseCount: OMIM:609536,37
+UniqueDiseaseCount: OMIM:612446|OMIM:610102,4
+UniqueDiseaseCount: OMIM:613825,30
+UniqueDiseaseCount: C537966,1
+UniqueDiseaseCount: D055036,1
+UniqueDiseaseCount: D017825,20
+UniqueDiseaseCount: D005185,1
+UniqueDiseaseCount: D002277,1
+UniqueDiseaseCount: D002278,1
+UniqueDiseaseCount: D012004,1
+UniqueDiseaseCount: D002296,1
+UniqueDiseaseCount: D018376,2
+UniqueDiseaseCount: D006323,1
+UniqueDiseaseCount: D001145,2
+UniqueDiseaseCount: D006327,2
+UniqueDiseaseCount: OMIM:115080,2
+UniqueDiseaseCount: D006330,1
+UniqueDiseaseCount: D006331,6
+UniqueDiseaseCount: D009202,9
+UniqueDiseaseCount: D002318,1
+UniqueDiseaseCount: C535916,7
+UniqueDiseaseCount: C535918|OMIM:115470,5
+UniqueDiseaseCount: D002386,27
+UniqueDiseaseCount: D009223,284
+UniqueDiseaseCount: D009421,1
+UniqueDiseaseCount: D003711,11
+UniqueDiseaseCount: D002493,2
+UniqueDiseaseCount: D012607,2
+UniqueDiseaseCount: D008223,15
+UniqueDiseaseCount: D002524,4
+UniqueDiseaseCount: D020754,2
+UniqueDiseaseCount: D013132,10
+UniqueDiseaseCount: D019294,27
+UniqueDiseaseCount: OMIM:143470,22
+UniqueDiseaseCount: C536456,4
+UniqueDiseaseCount: C538138,6
+UniqueDiseaseCount: D002607,1
+UniqueDiseaseCount: D003327,11
+UniqueDiseaseCount: D002609,6
+UniqueDiseaseCount: D009765,16
+UniqueDiseaseCount: D015794,30
+UniqueDiseaseCount: D007863,16
+UniqueDiseaseCount: D010009,14
+UniqueDiseaseCount: OMIM:255800,13
+UniqueDiseaseCount: D002819,1
+UniqueDiseaseCount: D008268,10
+UniqueDiseaseCount:  D015862+D058499,1
+UniqueDiseaseCount: D020288,2
+UniqueDiseaseCount: C537181,2
+UniqueDiseaseCount: D002869,6
+UniqueDiseaseCount: D048629,1
+UniqueDiseaseCount: D043171,2
+UniqueDiseaseCount: D008179,5
+UniqueDiseaseCount: D006461,10
+UniqueDiseaseCount: D000745,3
+UniqueDiseaseCount: D015451,1
+UniqueDiseaseCount: D008589,10
+UniqueDiseaseCount: D002908+D013118,1
+UniqueDiseaseCount: D000746,13
+UniqueDiseaseCount: D012164,7
+UniqueDiseaseCount: OMIM:238600,1
+UniqueDiseaseCount: D008103,6
+UniqueDiseaseCount: D002971|D002972,9
+UniqueDiseaseCount: D010661,107
+UniqueDiseaseCount: C536210,7
+UniqueDiseaseCount: C538445,2
+UniqueDiseaseCount: D002971,7
+UniqueDiseaseCount: D002972,17
+UniqueDiseaseCount: D013568,2
+UniqueDiseaseCount: C536852,1
+UniqueDiseaseCount:  D007945,1
+UniqueDiseaseCount: D003025,2
+UniqueDiseaseCount: D003072,5
+UniqueDiseaseCount: C536438,4
+UniqueDiseaseCount: D003110|D009369,1
+UniqueDiseaseCount: D003110,3
+UniqueDiseaseCount: D003110|D008175,1
+UniqueDiseaseCount: D003111,7
+UniqueDiseaseCount: D018256|D015179,3
+UniqueDiseaseCount: D015179|D009369,1
+UniqueDiseaseCount: D001943|D015179|D009369,1
+UniqueDiseaseCount: D010051|D016889|D015179,1
+UniqueDiseaseCount: D009369|D015179,1
+UniqueDiseaseCount: OMIM:610102|OMIM:612446,2
+UniqueDiseaseCount: D007153,25
+UniqueDiseaseCount: OMIM:610102|OMIM:217000,1
+UniqueDiseaseCount: OMIM:180020,1
+UniqueDiseaseCount: C531603,3
+UniqueDiseaseCount: D000013,8
+UniqueDiseaseCount: D057130,1
+UniqueDiseaseCount: D003638,11
+UniqueDiseaseCount: OMIM:605253,1
+UniqueDiseaseCount: D003409,3
+UniqueDiseaseCount: D008133,1
+UniqueDiseaseCount: D020417,3
+UniqueDiseaseCount: D006319,10
+UniqueDiseaseCount: OMIM:313900,14
+UniqueDiseaseCount: C535464,1
+UniqueDiseaseCount: D025063,3
+UniqueDiseaseCount: D004829,1
+UniqueDiseaseCount: C535468,4
+UniqueDiseaseCount: D008107,5
+UniqueDiseaseCount: OMIM:215600,8
+UniqueDiseaseCount: D001112,1
+UniqueDiseaseCount: D003317,2
+UniqueDiseaseCount: D003318,1
+UniqueDiseaseCount: C537369,1
+UniqueDiseaseCount: D003323,1
+UniqueDiseaseCount: D019465|D009421,1
+UniqueDiseaseCount: D003456,1
+UniqueDiseaseCount: D010859,2
+UniqueDiseaseCount: D018366,3
+UniqueDiseaseCount: D003537,2
+UniqueDiseaseCount: D052177,2
+UniqueDiseaseCount: D052177|D010181|D013088,1
+UniqueDiseaseCount: D003586,1
+UniqueDiseaseCount: D030321,26
+UniqueDiseaseCount: C538225,3
+UniqueDiseaseCount: D003095,1
+UniqueDiseaseCount: D015499,1
+UniqueDiseaseCount: OMIM:612336,5
+UniqueDiseaseCount: D018455,7
+UniqueDiseaseCount: D009085,1
+UniqueDiseaseCount: OMIM:609814,3
+UniqueDiseaseCount: OMIM:261600,18
+UniqueDiseaseCount: C531610,1
+UniqueDiseaseCount: D016537,4
+UniqueDiseaseCount: OMIM:200100,1
+UniqueDiseaseCount: D005776,13
+UniqueDiseaseCount: D013661,89
+UniqueDiseaseCount: D046349,11
+UniqueDiseaseCount: D054067,6
+UniqueDiseaseCount: D020389,44
+UniqueDiseaseCount: D016111,24
+UniqueDiseaseCount: D005955,106
+UniqueDiseaseCount: C537277,2
+UniqueDiseaseCount: C538068,6
+UniqueDiseaseCount: C536353,21
+UniqueDiseaseCount: OMIM:253000,20
+UniqueDiseaseCount: C537849,48
+UniqueDiseaseCount: D056784,6
+UniqueDiseaseCount: D003681,1
+UniqueDiseaseCount: C538392,1
+UniqueDiseaseCount: D003704,1
+UniqueDiseaseCount: D014071,2
+UniqueDiseaseCount: OMIM:125370,1
+UniqueDiseaseCount: D003866,1
+UniqueDiseaseCount: C535733,1
+UniqueDiseaseCount: C538219,6
+UniqueDiseaseCount: C535944,1
+UniqueDiseaseCount: D018222,2
+UniqueDiseaseCount: D058405,3
+UniqueDiseaseCount: D006130,14
+UniqueDiseaseCount: D015834,1
+UniqueDiseaseCount: D004062,24
+UniqueDiseaseCount: D003920,6
+UniqueDiseaseCount: D003919,3
+UniqueDiseaseCount: D003967,3
+UniqueDiseaseCount: C536170,23
+UniqueDiseaseCount: D018798,1
+UniqueDiseaseCount: C537346,13
+UniqueDiseaseCount: D013959,1
+UniqueDiseaseCount: C538554,2
+UniqueDiseaseCount: D000592,3
+UniqueDiseaseCount: D008661,17
+UniqueDiseaseCount: D004194,13
+UniqueDiseaseCount: D008232|D007154,1
+UniqueDiseaseCount: C536185,2
+UniqueDiseaseCount: D004673,1
+UniqueDiseaseCount: D020388,167
+UniqueDiseaseCount: OMIM:160900,1
+UniqueDiseaseCount: D058495,1
+UniqueDiseaseCount: D009224,10
+UniqueDiseaseCount: C536245,1
+UniqueDiseaseCount: C538007,6
+UniqueDiseaseCount: C535504,2
+UniqueDiseaseCount: OMIM:222600,1
+UniqueDiseaseCount: D044584,2
+UniqueDiseaseCount: D016472,3
+UniqueDiseaseCount: D004401,1
+UniqueDiseaseCount: D006042,9
+UniqueDiseaseCount: D004421,5
+UniqueDiseaseCount: D020821,9
+UniqueDiseaseCount: D009136,17
+UniqueDiseaseCount: OMIM:310200,2
+UniqueDiseaseCount: C535506,5
+UniqueDiseaseCount: D003643,3
+UniqueDiseaseCount: D005221,1
+UniqueDiseaseCount: D004485,4
+UniqueDiseaseCount: OMIM:132400,1
+UniqueDiseaseCount: OMIM:600204,1
+UniqueDiseaseCount: OMIM:226900,1
+UniqueDiseaseCount: D020964,4
+UniqueDiseaseCount: D004646,1
+UniqueDiseaseCount: D004701,1
+UniqueDiseaseCount: D004700,2
+UniqueDiseaseCount: D036821,1
+UniqueDiseaseCount: D016889,6
+UniqueDiseaseCount: C538273+D007592,2
+UniqueDiseaseCount: D004806,1
+UniqueDiseaseCount: D004814,1
+UniqueDiseaseCount: D000743,6
+UniqueDiseaseCount: D020031,2
+UniqueDiseaseCount: D017445,1
+UniqueDiseaseCount: D004938,2
+UniqueDiseaseCount: D012512,5
+UniqueDiseaseCount: D019190,4
+UniqueDiseaseCount: D000435,1
+UniqueDiseaseCount: D009436,2
+UniqueDiseaseCount: D001405,1
+UniqueDiseaseCount: D012163,2
+UniqueDiseaseCount: D018322,1
+UniqueDiseaseCount: D005146,1
+UniqueDiseaseCount: D019465|D017880|D014564,1
+UniqueDiseaseCount: D005171,3
+UniqueDiseaseCount: D028227,2
+UniqueDiseaseCount: D009358,1
+UniqueDiseaseCount: OMIM:174810,5
+UniqueDiseaseCount: OMIM:136520,4
+UniqueDiseaseCount: D013274,17
+UniqueDiseaseCount: D020325,5
+UniqueDiseaseCount: D024741,4
+UniqueDiseaseCount: D052476,1
+UniqueDiseaseCount: D018567,15
+UniqueDiseaseCount: D010505,60
+UniqueDiseaseCount: D008545,17
+UniqueDiseaseCount: C538098,2
+UniqueDiseaseCount: D011218,131
+UniqueDiseaseCount: D018205,1
+UniqueDiseaseCount: D008206,3
+UniqueDiseaseCount: D005236,5
+UniqueDiseaseCount: D005334,7
+UniqueDiseaseCount: D020966,1
+UniqueDiseaseCount: D017573,1
+UniqueDiseaseCount: D005355,1
+UniqueDiseaseCount: D005402,1
+UniqueDiseaseCount: OMIM:300624,2
+UniqueDiseaseCount: D005530,2
+UniqueDiseaseCount: D005600,26
+UniqueDiseaseCount: D052159,4
+UniqueDiseaseCount: D005621,60
+UniqueDiseaseCount: C538065,1
+UniqueDiseaseCount: C535804,2
+UniqueDiseaseCount: D020143,3
+UniqueDiseaseCount: OMIM:230400,1
+UniqueDiseaseCount: D005736,11
+UniqueDiseaseCount: D015179|D013274,2
+UniqueDiseaseCount: D009759,2
+UniqueDiseaseCount: D004829+D003294,1
+UniqueDiseaseCount: D025861,2
+UniqueDiseaseCount: D006432,66
+UniqueDiseaseCount: D020022,3
+UniqueDiseaseCount: D014564,7
+UniqueDiseaseCount: D019214,1
+UniqueDiseaseCount: D005901,4
+UniqueDiseaseCount: D005909,3
+UniqueDiseaseCount: D005910,2
+UniqueDiseaseCount: D005921,7
+UniqueDiseaseCount: D006059,1
+UniqueDiseaseCount: D006058,1
+UniqueDiseaseCount: C535764,3
+UniqueDiseaseCount: D006069,2
+UniqueDiseaseCount: D015210,2
+UniqueDiseaseCount: D007960,1
+UniqueDiseaseCount: OMIM:262400,1
+UniqueDiseaseCount: D000848,3
+UniqueDiseaseCount: D006417,1
+UniqueDiseaseCount: D006456,1
+UniqueDiseaseCount: D006474,1
+UniqueDiseaseCount: D020141,2
+UniqueDiseaseCount: C537627,12
+UniqueDiseaseCount: OMIM:106210 ,2
+UniqueDiseaseCount: OMIM:602482|OMIM:153400,1
+UniqueDiseaseCount: D006995,13
+UniqueDiseaseCount: D006816,107
+UniqueDiseaseCount: D034381,3
+UniqueDiseaseCount: D006402,1
+UniqueDiseaseCount: D019337,6
+UniqueDiseaseCount: D006463,5
+UniqueDiseaseCount: D051359,1
+UniqueDiseaseCount: D006467|D002836,3
+UniqueDiseaseCount: D006467,3
+UniqueDiseaseCount: D002836,1
+UniqueDiseaseCount: D007249+D030342,2
+UniqueDiseaseCount: D008107|D009422,1
+UniqueDiseaseCount: D006501,1
+UniqueDiseaseCount: D017094,1
+UniqueDiseaseCount: D018197,10
+UniqueDiseaseCount: D006528,3
+UniqueDiseaseCount: D006529,2
+UniqueDiseaseCount: D030342+D003638,1
+UniqueDiseaseCount: OMIM:145001,5
+UniqueDiseaseCount: D003123,13
+UniqueDiseaseCount: C537243,8
+UniqueDiseaseCount: D015785,2
+UniqueDiseaseCount: D009216,4
+UniqueDiseaseCount: D007569,1
+UniqueDiseaseCount: D006618,1
+UniqueDiseaseCount: C538320,3
+UniqueDiseaseCount: C536903,1
+UniqueDiseaseCount: D015658,3
+UniqueDiseaseCount: D006689,2
+UniqueDiseaseCount: OMIM:300323,3
+UniqueDiseaseCount: D006961,1
+UniqueDiseaseCount: D006849,2
+UniqueDiseaseCount: D006932,1
+UniqueDiseaseCount: D006937,1
+UniqueDiseaseCount: D006946,1
+UniqueDiseaseCount: D017488,2
+UniqueDiseaseCount: D006951,1
+UniqueDiseaseCount: D006963,1
+UniqueDiseaseCount: D006972,2
+UniqueDiseaseCount: D015228,1
+UniqueDiseaseCount: D002312,4
+UniqueDiseaseCount: D033461,2
+UniqueDiseaseCount: D010523,1
+UniqueDiseaseCount: D017496,9
+UniqueDiseaseCount: D007027,1
+UniqueDiseaseCount: D009123,7
+UniqueDiseaseCount: D007057,1
+UniqueDiseaseCount: C536277,2
+UniqueDiseaseCount: D003922,9
+UniqueDiseaseCount: D004827,2
+UniqueDiseaseCount: D004422,3
+UniqueDiseaseCount: C537182,12
+UniqueDiseaseCount: D018149,4
+UniqueDiseaseCount: D007154,6
+UniqueDiseaseCount: D007105,1
+UniqueDiseaseCount: D004406,1
+UniqueDiseaseCount: D000303,1
+UniqueDiseaseCount: D020886,2
+UniqueDiseaseCount: OMIM:300100,1
+UniqueDiseaseCount: D018901,10
+UniqueDiseaseCount: D052919,1
+UniqueDiseaseCount: D003141,2
+UniqueDiseaseCount: D007246,3
+UniqueDiseaseCount: D015212,2
+UniqueDiseaseCount: D004660,1
+UniqueDiseaseCount: D019189,1
+UniqueDiseaseCount: D009135+D030342,2
+UniqueDiseaseCount: D038901,4
+UniqueDiseaseCount: D008659,4
+UniqueDiseaseCount: D009468+D030342,1
+UniqueDiseaseCount: C548028,1
+UniqueDiseaseCount: D007759,2
+UniqueDiseaseCount: OMIM:125852,4
+UniqueDiseaseCount: D012734,4
+UniqueDiseaseCount: D000008+D002277,1
+UniqueDiseaseCount: D006949,1
+UniqueDiseaseCount: D005317,1
+UniqueDiseaseCount: D009362,3
+UniqueDiseaseCount: D018275,1
+UniqueDiseaseCount: OMIM:274400,4
+UniqueDiseaseCount: D007499,4
+UniqueDiseaseCount: OMIM:255125,1
+UniqueDiseaseCount: D017202,1
+UniqueDiseaseCount: D013921,14
+UniqueDiseaseCount: D007565,1
+UniqueDiseaseCount: D007571,3
+UniqueDiseaseCount: D007573,3
+UniqueDiseaseCount: D006106,1
+UniqueDiseaseCount: D041441,13
+UniqueDiseaseCount: D012514,5
+UniqueDiseaseCount: D007642,1
+UniqueDiseaseCount: D007645,8
+UniqueDiseaseCount: D007680,2
+UniqueDiseaseCount: C537207,17
+UniqueDiseaseCount: C537209,2
+UniqueDiseaseCount: OMIM:245200,2
+UniqueDiseaseCount: OMIM:610170,1
+UniqueDiseaseCount: D015826,12
+UniqueDiseaseCount: D020518,1
+UniqueDiseaseCount: C535884,1
+UniqueDiseaseCount: D007890,1
+UniqueDiseaseCount: OMIM:164160,1
+UniqueDiseaseCount: D007967,2
+UniqueDiseaseCount: D016864,8
+UniqueDiseaseCount: D017880,1
+UniqueDiseaseCount: D049288,1
+UniqueDiseaseCount: D008067,12
+UniqueDiseaseCount: D017093,1
+UniqueDiseaseCount: D051346,1
+UniqueDiseaseCount: D053421,1
+UniqueDiseaseCount: D009800,17
+UniqueDiseaseCount: D018908,7
+UniqueDiseaseCount: C537034,2
+UniqueDiseaseCount: D008232,3
+UniqueDiseaseCount: D017827,45
+UniqueDiseaseCount: D008288,12
+UniqueDiseaseCount: D018567|D001943,1
+UniqueDiseaseCount: D005834,1
+UniqueDiseaseCount: D005832,1
+UniqueDiseaseCount: D058490,1
+UniqueDiseaseCount: D007248,1
+UniqueDiseaseCount: D018335,4
+UniqueDiseaseCount: D008113+D018198,1
+UniqueDiseaseCount: D018198,1
+UniqueDiseaseCount: D024182,19
+UniqueDiseaseCount: C538037,6
+UniqueDiseaseCount: D017042,4
+UniqueDiseaseCount: D015458,2
+UniqueDiseaseCount: OMIM:300842,9
+UniqueDiseaseCount: D008527,4
+UniqueDiseaseCount: D000686|D010505,2
+UniqueDiseaseCount: OMIM:131100,1
+UniqueDiseaseCount: D018813,1
+UniqueDiseaseCount: D008581,3
+UniqueDiseaseCount: D008607,30
+UniqueDiseaseCount: C535700,2
+UniqueDiseaseCount: D008637,1
+UniqueDiseaseCount: D008654,2
+UniqueDiseaseCount: C537356,1
+UniqueDiseaseCount: D009157,6
+UniqueDiseaseCount: D008831,2
+UniqueDiseaseCount: D053842,1
+UniqueDiseaseCount: D005234,1
+UniqueDiseaseCount: D019767,1
+UniqueDiseaseCount: D010033,1
+UniqueDiseaseCount: OMIM:300194,1
+UniqueDiseaseCount: D008881,1
+UniqueDiseaseCount: D028361,2
+UniqueDiseaseCount: D019957,1
+UniqueDiseaseCount: D009069,1
+UniqueDiseaseCount: D009059,3
+UniqueDiseaseCount: D009078,1
+UniqueDiseaseCount: D009377,1
+UniqueDiseaseCount: D009135,12
+UniqueDiseaseCount: C536106,1
+UniqueDiseaseCount: D009133,4
+UniqueDiseaseCount: D014947,2
+UniqueDiseaseCount: D059352,1
+UniqueDiseaseCount: D011115,1
+UniqueDiseaseCount: D009422,7
+UniqueDiseaseCount: D009222,10
+UniqueDiseaseCount: C538333,1
+UniqueDiseaseCount: D049932,16
+UniqueDiseaseCount: OMIM:202370,3
+UniqueDiseaseCount: D054098,1
+UniqueDiseaseCount: D007567,5
+UniqueDiseaseCount: D009393,2
+UniqueDiseaseCount: D009396,34
+UniqueDiseaseCount: D009410,3
+UniqueDiseaseCount: D019954,1
+UniqueDiseaseCount: D009447,1
+UniqueDiseaseCount: D017599,3
+UniqueDiseaseCount: D018302,1
+UniqueDiseaseCount: D009456,4
+UniqueDiseaseCount: D018319,7
+UniqueDiseaseCount: D020790,1
+UniqueDiseaseCount: D009461,6
+UniqueDiseaseCount: D009422|D001523,1
+UniqueDiseaseCount: D020158,6
+UniqueDiseaseCount: D008228,2
+UniqueDiseaseCount: D003924,1
+UniqueDiseaseCount: D002292,46
+UniqueDiseaseCount: C537845,7
+UniqueDiseaseCount: OMIM:119530,1
+UniqueDiseaseCount: D009794,1
+UniqueDiseaseCount: D009794+D007592,1
+UniqueDiseaseCount: D009810,1
+UniqueDiseaseCount: D009837,1
+UniqueDiseaseCount: D009896,3
+UniqueDiseaseCount: D008538,2
+UniqueDiseaseCount: D010016,1
+UniqueDiseaseCount: D012516,1
+UniqueDiseaseCount: D010051,66
+UniqueDiseaseCount: D010051|D001943,1
+UniqueDiseaseCount: D010051|D009369,1
+UniqueDiseaseCount: D010051|D013274|D001661,1
+UniqueDiseaseCount: D006965,1
+UniqueDiseaseCount: D010190,10
+UniqueDiseaseCount: D010181|D010190,1
+UniqueDiseaseCount: OMIM:260350,1
+UniqueDiseaseCount: D010190|D002280|D015179|D001943|D002583,1
+UniqueDiseaseCount: D018292,4
+UniqueDiseaseCount: D010214,22
+UniqueDiseaseCount: D010282,2
+UniqueDiseaseCount: D006457,8
+UniqueDiseaseCount: OMIM:600698,1
+UniqueDiseaseCount: C531609,1
+UniqueDiseaseCount: OMIM:106210,1
+UniqueDiseaseCount: D015324,3
+UniqueDiseaseCount: C536648,47
+UniqueDiseaseCount: D019042,1
+UniqueDiseaseCount: OMIM:312080,47
+UniqueDiseaseCount: D010510,3
+UniqueDiseaseCount: D010518,7
+UniqueDiseaseCount: D015535,3
+UniqueDiseaseCount: D010554,1
+UniqueDiseaseCount: C537884,9
+UniqueDiseaseCount: D017511,6
+UniqueDiseaseCount: D010673,5
+UniqueDiseaseCount: D058499,3
+UniqueDiseaseCount: D016116,14
+UniqueDiseaseCount: D015821,4
+UniqueDiseaseCount: D018296,3
+UniqueDiseaseCount: D019572|D010871,2
+UniqueDiseaseCount: D008047,1
+UniqueDiseaseCount: D010900+D000307,1
+UniqueDiseaseCount: D013122,1
+UniqueDiseaseCount: OMIM:312080+OMIM:312920,1
+UniqueDiseaseCount: D011014,1
+UniqueDiseaseCount: D007690,1
+UniqueDiseaseCount: D044483,2
+UniqueDiseaseCount: D011127,4
+UniqueDiseaseCount: OMIM:119500,1
+UniqueDiseaseCount: D011218|D017204,2
+UniqueDiseaseCount: D049950,1
+UniqueDiseaseCount: D010534,1
+UniqueDiseaseCount: D020234|D001259,1
+UniqueDiseaseCount: C531652,16
+UniqueDiseaseCount: D056732,3
+UniqueDiseaseCount: D011471|D010190|D012878|D008175,1
+UniqueDiseaseCount: D011507,1
+UniqueDiseaseCount: D011565,4
+UniqueDiseaseCount: D001763,1
+UniqueDiseaseCount: OMIM:202370|OMIM:214100,1
+UniqueDiseaseCount: D008586,1
+UniqueDiseaseCount: C536252,1
+UniqueDiseaseCount: D007239,2
+UniqueDiseaseCount: D006226,1
+UniqueDiseaseCount: D035583,1
+UniqueDiseaseCount: D020279+D035583,1
+UniqueDiseaseCount: D006623,95
+UniqueDiseaseCount: D008581+D012008,2
+UniqueDiseaseCount: C538249,2
+UniqueDiseaseCount: D051437,7
+UniqueDiseaseCount: D007674+D006222,4
+UniqueDiseaseCount: C537750,1
+UniqueDiseaseCount: D012162,7
+UniqueDiseaseCount: D012175|D018325,1
+UniqueDiseaseCount: OMIM:136880,1
+UniqueDiseaseCount: D012216,2
+UniqueDiseaseCount: D012257,1
+UniqueDiseaseCount: D058566,2
+UniqueDiseaseCount: OMIM:101400,3
+UniqueDiseaseCount: OMIM:101400|OMIM:123500|OMIM:101600,1
+UniqueDiseaseCount: D012509,1
+UniqueDiseaseCount: OMIM:164400,4
+UniqueDiseaseCount: OMIM:183090,4
+UniqueDiseaseCount: OMIM:183086,2
+UniqueDiseaseCount: C537502,13
+UniqueDiseaseCount: D012600,2
+UniqueDiseaseCount: D018239,3
+UniqueDiseaseCount: D001172,1
+UniqueDiseaseCount: D012700,2
+UniqueDiseaseCount: D018284,1
+UniqueDiseaseCount: D010292,1
+UniqueDiseaseCount: D056729,3
+UniqueDiseaseCount: D012859,1
+UniqueDiseaseCount: MESH:C535662,2
+UniqueDiseaseCount: C536183,1
+UniqueDiseaseCount: D005076,4
+UniqueDiseaseCount: D012878,3
+UniqueDiseaseCount: D012883,1
+UniqueDiseaseCount: D010264,1
+UniqueDiseaseCount: D009128,2
+UniqueDiseaseCount: OMIM:312920,5
+UniqueDiseaseCount: D016135,1
+UniqueDiseaseCount: D013118,1
+UniqueDiseaseCount: D014973,4
+UniqueDiseaseCount: OMIM:164400|OMIM:183090,1
+UniqueDiseaseCount: D013163,2
+UniqueDiseaseCount: D013166,2
+UniqueDiseaseCount: D001943|D001932|D011471|D007680,1
+UniqueDiseaseCount: D015461,6
+UniqueDiseaseCount: D005313,1
+UniqueDiseaseCount: D016757,1
+UniqueDiseaseCount: D003645,5
+UniqueDiseaseCount: D009120,1
+UniqueDiseaseCount: D004427,1
+UniqueDiseaseCount: D013576,1
+UniqueDiseaseCount: D034381|C537845,1
+UniqueDiseaseCount: D013585,2
+UniqueDiseaseCount: D034721,1
+UniqueDiseaseCount: D008180,4
+UniqueDiseaseCount: D016399,3
+UniqueDiseaseCount: D058670,1
+UniqueDiseaseCount: D013789,2
+UniqueDiseaseCount: D019851,2
+UniqueDiseaseCount: D013927,5
+UniqueDiseaseCount: D013953,2
+UniqueDiseaseCount: D013945,1
+UniqueDiseaseCount: D013964,1
+UniqueDiseaseCount: D016388,1
+UniqueDiseaseCount: D005879,4
+UniqueDiseaseCount: D014202,1
+UniqueDiseaseCount: OMIM:190350,3
+UniqueDiseaseCount: D014402,1
+UniqueDiseaseCount: D002471,1
+UniqueDiseaseCount: D056725,3
+UniqueDiseaseCount: C535964,1
+UniqueDiseaseCount: D056728,5
+UniqueDiseaseCount: D004535,2
+UniqueDiseaseCount: D003093,3
+UniqueDiseaseCount: D012141,1
+UniqueDiseaseCount: D057772,1
+UniqueDiseaseCount: D014657,2
+UniqueDiseaseCount: D014652,1
+UniqueDiseaseCount: D020246,2
+UniqueDiseaseCount: D014693,1
+UniqueDiseaseCount: C531604,3
+UniqueDiseaseCount: D014842,26
+UniqueDiseaseCount: C531844,2
+UniqueDiseaseCount: D014849,1
+UniqueDiseaseCount: D017624,5
+UniqueDiseaseCount: D014923,114
+UniqueDiseaseCount: D019282,1
+UniqueDiseaseCount: D006527,34
+UniqueDiseaseCount: OMIM:222300,10
+UniqueDiseaseCount: D015223,4
+UniqueDiseaseCount: D040181,13
+UniqueDiseaseCount: OMIM:300755,1
+UniqueDiseaseCount: D002311,7
+UniqueDiseaseCount: OMIM:314250,1
+UniqueDiseaseCount: D007153+D040181,1
+UniqueDiseaseCount: D008052,1
+UniqueDiseaseCount: D053632,1
+UniqueDiseaseCount: D040181+D009136,1
+UniqueDiseaseCount: OMIM:304500,1
+UniqueDiseaseCount: D015211,11
+[INFO]: write 791 .txt/.ann files...
